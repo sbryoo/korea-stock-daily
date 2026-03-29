@@ -1,0 +1,5366 @@
+{
+    "metadata": {
+        "base_date": "2026-03-27",
+        "extracted_at": "2026-03-29 11:47:36",
+        "total_movers": 315
+    },
+    "large_cap_movers": [
+        {
+            "code": "263750",
+            "name": "펄어비스",
+            "market": "KOSDAQ GLOBAL",
+            "close": 58800,
+            "changes_ratio": 15.75,
+            "volume": 8603118,
+            "amount": 489318018350,
+            "marcap": 3777773874000,
+            "ohlc": {
+                "open": 51600,
+                "high": 59900,
+                "low": 51600
+            },
+            "strength_score": 0.87,
+            "is_large_cap": true
+        },
+        {
+            "code": "100790",
+            "name": "미래에셋벤처투자",
+            "market": "KOSDAQ",
+            "close": 32550,
+            "changes_ratio": 15.22,
+            "volume": 23071600,
+            "amount": 710125773725,
+            "marcap": 1729206836700,
+            "ohlc": {
+                "open": 28000,
+                "high": 33050,
+                "low": 27600
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "008770",
+            "name": "호텔신라",
+            "market": "KOSPI",
+            "close": 47450,
+            "changes_ratio": 13.11,
+            "volume": 1313665,
+            "amount": 60401517500,
+            "marcap": 1862323341450,
+            "ohlc": {
+                "open": 43300,
+                "high": 48100,
+                "low": 43200
+            },
+            "strength_score": 0.87,
+            "is_large_cap": true
+        },
+        {
+            "code": "181710",
+            "name": "NHN",
+            "market": "KOSPI",
+            "close": 41850,
+            "changes_ratio": 13.11,
+            "volume": 319898,
+            "amount": 13055240775,
+            "marcap": 1370718867150,
+            "ohlc": {
+                "open": 37000,
+                "high": 42500,
+                "low": 36600
+            },
+            "strength_score": 0.89,
+            "is_large_cap": true
+        },
+        {
+            "code": "192820",
+            "name": "코스맥스",
+            "market": "KOSPI",
+            "close": 205000,
+            "changes_ratio": 8.58,
+            "volume": 146270,
+            "amount": 29609361000,
+            "marcap": 2326649345000,
+            "ohlc": {
+                "open": 188700,
+                "high": 208000,
+                "low": 185100
+            },
+            "strength_score": 0.87,
+            "is_large_cap": true
+        },
+        {
+            "code": "047040",
+            "name": "대우건설",
+            "market": "KOSPI",
+            "close": 17260,
+            "changes_ratio": 8.55,
+            "volume": 54279620,
+            "amount": 913997576435,
+            "marcap": 7173646731880,
+            "ohlc": {
+                "open": 15490,
+                "high": 17590,
+                "low": 15480
+            },
+            "strength_score": 0.84,
+            "is_large_cap": true
+        },
+        {
+            "code": "086450",
+            "name": "동국제약",
+            "market": "KOSDAQ GLOBAL",
+            "close": 22300,
+            "changes_ratio": 8.52,
+            "volume": 1218306,
+            "amount": 26134112300,
+            "marcap": 1008638366000,
+            "ohlc": {
+                "open": 20100,
+                "high": 22350,
+                "low": 20050
+            },
+            "strength_score": 0.98,
+            "is_large_cap": true
+        },
+        {
+            "code": "131970",
+            "name": "두산테스나",
+            "market": "KOSDAQ GLOBAL",
+            "close": 108300,
+            "changes_ratio": 8.3,
+            "volume": 657735,
+            "amount": 68678746700,
+            "marcap": 2093139875400,
+            "ohlc": {
+                "open": 96400,
+                "high": 109500,
+                "low": 96400
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "052020",
+            "name": "에스티큐브",
+            "market": "KOSDAQ",
+            "close": 19510,
+            "changes_ratio": 8.27,
+            "volume": 907759,
+            "amount": 17665413280,
+            "marcap": 1326354007410,
+            "ohlc": {
+                "open": 18000,
+                "high": 20000,
+                "low": 17730
+            },
+            "strength_score": 0.78,
+            "is_large_cap": true
+        },
+        {
+            "code": "483650",
+            "name": "달바글로벌",
+            "market": "KOSPI",
+            "close": 154500,
+            "changes_ratio": 7.67,
+            "volume": 127239,
+            "amount": 19367724600,
+            "marcap": 1914666742500,
+            "ohlc": {
+                "open": 140200,
+                "high": 157600,
+                "low": 140100
+            },
+            "strength_score": 0.82,
+            "is_large_cap": true
+        },
+        {
+            "code": "000990",
+            "name": "DB하이텍",
+            "market": "KOSPI",
+            "close": 83800,
+            "changes_ratio": 7.57,
+            "volume": 436469,
+            "amount": 35951376700,
+            "marcap": 3645684474400,
+            "ohlc": {
+                "open": 78600,
+                "high": 85300,
+                "low": 76300
+            },
+            "strength_score": 0.83,
+            "is_large_cap": true
+        },
+        {
+            "code": "066970",
+            "name": "엘앤에프",
+            "market": "KOSPI",
+            "close": 155300,
+            "changes_ratio": 7.47,
+            "volume": 1897659,
+            "amount": 287913527600,
+            "marcap": 6261969638600,
+            "ohlc": {
+                "open": 141000,
+                "high": 158400,
+                "low": 140000
+            },
+            "strength_score": 0.83,
+            "is_large_cap": true
+        },
+        {
+            "code": "007390",
+            "name": "네이처셀",
+            "market": "KOSDAQ",
+            "close": 18280,
+            "changes_ratio": 6.9,
+            "volume": 786661,
+            "amount": 14045463145,
+            "marcap": 1177872823680,
+            "ohlc": {
+                "open": 16580,
+                "high": 18700,
+                "low": 16550
+            },
+            "strength_score": 0.8,
+            "is_large_cap": true
+        },
+        {
+            "code": "028300",
+            "name": "HLB",
+            "market": "KOSDAQ",
+            "close": 53300,
+            "changes_ratio": 6.71,
+            "volume": 1016668,
+            "amount": 52976580925,
+            "marcap": 7095162963200,
+            "ohlc": {
+                "open": 49150,
+                "high": 53500,
+                "low": 49150
+            },
+            "strength_score": 0.95,
+            "is_large_cap": true
+        },
+        {
+            "code": "090430",
+            "name": "아모레퍼시픽",
+            "market": "KOSPI",
+            "close": 144400,
+            "changes_ratio": 6.18,
+            "volume": 352716,
+            "amount": 49882341950,
+            "marcap": 8446354399600,
+            "ohlc": {
+                "open": 134400,
+                "high": 145200,
+                "low": 132900
+            },
+            "strength_score": 0.93,
+            "is_large_cap": true
+        },
+        {
+            "code": "140410",
+            "name": "메지온",
+            "market": "KOSDAQ",
+            "close": 98000,
+            "changes_ratio": 6.18,
+            "volume": 398617,
+            "amount": 37668896050,
+            "marcap": 2977354366000,
+            "ohlc": {
+                "open": 91000,
+                "high": 100000,
+                "low": 87900
+            },
+            "strength_score": 0.83,
+            "is_large_cap": true
+        },
+        {
+            "code": "257720",
+            "name": "실리콘투",
+            "market": "KOSDAQ",
+            "close": 38800,
+            "changes_ratio": 6.01,
+            "volume": 636200,
+            "amount": 24401385300,
+            "marcap": 2373470030400,
+            "ohlc": {
+                "open": 35850,
+                "high": 39350,
+                "low": 35400
+            },
+            "strength_score": 0.86,
+            "is_large_cap": true
+        },
+        {
+            "code": "950160",
+            "name": "코오롱티슈진",
+            "market": "KOSDAQ",
+            "close": 127000,
+            "changes_ratio": 6.01,
+            "volume": 1265850,
+            "amount": 157249894100,
+            "marcap": 10573554545000,
+            "ohlc": {
+                "open": 122100,
+                "high": 128400,
+                "low": 116400
+            },
+            "strength_score": 0.88,
+            "is_large_cap": true
+        },
+        {
+            "code": "326030",
+            "name": "SK바이오팜",
+            "market": "KOSPI",
+            "close": 100300,
+            "changes_ratio": 5.91,
+            "volume": 513839,
+            "amount": 51039575500,
+            "marcap": 7854818975000,
+            "ohlc": {
+                "open": 103500,
+                "high": 103700,
+                "low": 96300
+            },
+            "strength_score": 0.54,
+            "is_large_cap": true
+        },
+        {
+            "code": "011070",
+            "name": "LG이노텍",
+            "market": "KOSPI",
+            "close": 320500,
+            "changes_ratio": 5.78,
+            "volume": 466427,
+            "amount": 145694933500,
+            "marcap": 7585307793500,
+            "ohlc": {
+                "open": 298000,
+                "high": 322500,
+                "low": 296500
+            },
+            "strength_score": 0.92,
+            "is_large_cap": true
+        },
+        {
+            "code": "278470",
+            "name": "에이피알",
+            "market": "KOSPI",
+            "close": 327000,
+            "changes_ratio": 5.48,
+            "volume": 225222,
+            "amount": 72143047000,
+            "marcap": 12242276685000,
+            "ohlc": {
+                "open": 307500,
+                "high": 329000,
+                "low": 307000
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "000210",
+            "name": "DL",
+            "market": "KOSPI",
+            "close": 62600,
+            "changes_ratio": 5.39,
+            "volume": 195279,
+            "amount": 11916690100,
+            "marcap": 1311838338400,
+            "ohlc": {
+                "open": 59400,
+                "high": 63100,
+                "low": 58300
+            },
+            "strength_score": 0.9,
+            "is_large_cap": true
+        },
+        {
+            "code": "002790",
+            "name": "아모레퍼시픽홀딩스",
+            "market": "KOSPI",
+            "close": 29350,
+            "changes_ratio": 5.39,
+            "volume": 194360,
+            "amount": 5588084575,
+            "marcap": 2244047583000,
+            "ohlc": {
+                "open": 27450,
+                "high": 29400,
+                "low": 27300
+            },
+            "strength_score": 0.98,
+            "is_large_cap": true
+        },
+        {
+            "code": "259960",
+            "name": "크래프톤",
+            "market": "KOSPI",
+            "close": 254500,
+            "changes_ratio": 5.38,
+            "volume": 257487,
+            "amount": 64720972500,
+            "marcap": 12064850159500,
+            "ohlc": {
+                "open": 242000,
+                "high": 256000,
+                "low": 240000
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "450080",
+            "name": "에코프로머티",
+            "market": "KOSPI",
+            "close": 73400,
+            "changes_ratio": 5.01,
+            "volume": 1974844,
+            "amount": 140930224300,
+            "marcap": 5179012543600,
+            "ohlc": {
+                "open": 68700,
+                "high": 74500,
+                "low": 66500
+            },
+            "strength_score": 0.86,
+            "is_large_cap": true
+        },
+        {
+            "code": "034230",
+            "name": "파라다이스",
+            "market": "KOSPI",
+            "close": 17830,
+            "changes_ratio": 4.94,
+            "volume": 767003,
+            "amount": 13443730190,
+            "marcap": 1651581881060,
+            "ohlc": {
+                "open": 16800,
+                "high": 17840,
+                "low": 16730
+            },
+            "strength_score": 0.99,
+            "is_large_cap": true
+        },
+        {
+            "code": "137400",
+            "name": "피엔티",
+            "market": "KOSDAQ GLOBAL",
+            "close": 50700,
+            "changes_ratio": 4.64,
+            "volume": 253514,
+            "amount": 12598483850,
+            "marcap": 1201119909600,
+            "ohlc": {
+                "open": 47500,
+                "high": 51200,
+                "low": 46950
+            },
+            "strength_score": 0.88,
+            "is_large_cap": true
+        },
+        {
+            "code": "003670",
+            "name": "포스코퓨처엠",
+            "market": "KOSPI",
+            "close": 209000,
+            "changes_ratio": 4.5,
+            "volume": 450176,
+            "amount": 91264753500,
+            "marcap": 18589759980000,
+            "ohlc": {
+                "open": 195700,
+                "high": 212500,
+                "low": 190400
+            },
+            "strength_score": 0.84,
+            "is_large_cap": true
+        },
+        {
+            "code": "087010",
+            "name": "펩트론",
+            "market": "KOSDAQ",
+            "close": 303000,
+            "changes_ratio": 4.48,
+            "volume": 157227,
+            "amount": 46696055000,
+            "marcap": 7065157050000,
+            "ohlc": {
+                "open": 279000,
+                "high": 306500,
+                "low": 279000
+            },
+            "strength_score": 0.87,
+            "is_large_cap": true
+        },
+        {
+            "code": "383220",
+            "name": "F&F",
+            "market": "KOSPI",
+            "close": 65000,
+            "changes_ratio": 4.33,
+            "volume": 81931,
+            "amount": 5242308700,
+            "marcap": 2489959875000,
+            "ohlc": {
+                "open": 61600,
+                "high": 65200,
+                "low": 61100
+            },
+            "strength_score": 0.95,
+            "is_large_cap": true
+        },
+        {
+            "code": "095340",
+            "name": "ISC",
+            "market": "KOSDAQ GLOBAL",
+            "close": 250000,
+            "changes_ratio": 4.17,
+            "volume": 204748,
+            "amount": 49942583500,
+            "marcap": 5299264500000,
+            "ohlc": {
+                "open": 227500,
+                "high": 258500,
+                "low": 225000
+            },
+            "strength_score": 0.75,
+            "is_large_cap": true
+        },
+        {
+            "code": "282330",
+            "name": "BGF리테일",
+            "market": "KOSPI",
+            "close": 130300,
+            "changes_ratio": 4.16,
+            "volume": 102748,
+            "amount": 13217067800,
+            "marcap": 2252092951800,
+            "ohlc": {
+                "open": 124300,
+                "high": 131300,
+                "low": 124000
+            },
+            "strength_score": 0.86,
+            "is_large_cap": true
+        },
+        {
+            "code": "007810",
+            "name": "코리아써키트",
+            "market": "KOSPI",
+            "close": 84000,
+            "changes_ratio": 4.09,
+            "volume": 635651,
+            "amount": 52628595400,
+            "marcap": 2014540416000,
+            "ohlc": {
+                "open": 79300,
+                "high": 87400,
+                "low": 78500
+            },
+            "strength_score": 0.62,
+            "is_large_cap": true
+        },
+        {
+            "code": "139130",
+            "name": "iM금융지주",
+            "market": "KOSPI",
+            "close": 17670,
+            "changes_ratio": 4.06,
+            "volume": 692153,
+            "amount": 12044120705,
+            "marcap": 2838236381610,
+            "ohlc": {
+                "open": 17000,
+                "high": 17700,
+                "low": 16600
+            },
+            "strength_score": 0.97,
+            "is_large_cap": true
+        },
+        {
+            "code": "085620",
+            "name": "미래에셋생명",
+            "market": "KOSPI",
+            "close": 17910,
+            "changes_ratio": 3.95,
+            "volume": 980458,
+            "amount": 17295804990,
+            "marcap": 3170359944990,
+            "ohlc": {
+                "open": 17230,
+                "high": 18490,
+                "low": 16790
+            },
+            "strength_score": 0.66,
+            "is_large_cap": true
+        },
+        {
+            "code": "039490",
+            "name": "키움증권",
+            "market": "KOSPI",
+            "close": 435000,
+            "changes_ratio": 3.94,
+            "volume": 102274,
+            "amount": 43386341500,
+            "marcap": 11402085150000,
+            "ohlc": {
+                "open": 404000,
+                "high": 438250,
+                "low": 400500
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "108490",
+            "name": "로보티즈",
+            "market": "KOSDAQ",
+            "close": 255000,
+            "changes_ratio": 3.87,
+            "volume": 158141,
+            "amount": 38591460500,
+            "marcap": 3736445640000,
+            "ohlc": {
+                "open": 239000,
+                "high": 257500,
+                "low": 229500
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "462870",
+            "name": "시프트업",
+            "market": "KOSPI",
+            "close": 32300,
+            "changes_ratio": 3.86,
+            "volume": 130330,
+            "amount": 4195889200,
+            "marcap": 1905194182000,
+            "ohlc": {
+                "open": 30800,
+                "high": 32700,
+                "low": 30400
+            },
+            "strength_score": 0.83,
+            "is_large_cap": true
+        },
+        {
+            "code": "020150",
+            "name": "롯데에너지머티리얼즈",
+            "market": "KOSPI",
+            "close": 42100,
+            "changes_ratio": 3.82,
+            "volume": 247141,
+            "amount": 10290413900,
+            "marcap": 2204585992300,
+            "ohlc": {
+                "open": 39250,
+                "high": 43100,
+                "low": 38750
+            },
+            "strength_score": 0.77,
+            "is_large_cap": true
+        },
+        {
+            "code": "082640",
+            "name": "동양생명",
+            "market": "KOSPI",
+            "close": 9000,
+            "changes_ratio": 3.81,
+            "volume": 448449,
+            "amount": 4003087575,
+            "marcap": 1452227265000,
+            "ohlc": {
+                "open": 8500,
+                "high": 9150,
+                "low": 8410
+            },
+            "strength_score": 0.8,
+            "is_large_cap": true
+        },
+        {
+            "code": "389470",
+            "name": "인벤티지랩",
+            "market": "KOSDAQ",
+            "close": 76800,
+            "changes_ratio": 3.78,
+            "volume": 95331,
+            "amount": 7241833150,
+            "marcap": 1019697792000,
+            "ohlc": {
+                "open": 76100,
+                "high": 77300,
+                "low": 74100
+            },
+            "strength_score": 0.84,
+            "is_large_cap": true
+        },
+        {
+            "code": "175330",
+            "name": "JB금융지주",
+            "market": "KOSPI",
+            "close": 31100,
+            "changes_ratio": 3.67,
+            "volume": 453295,
+            "amount": 13968053100,
+            "marcap": 5854686462400,
+            "ohlc": {
+                "open": 29400,
+                "high": 31350,
+                "low": 28950
+            },
+            "strength_score": 0.9,
+            "is_large_cap": true
+        },
+        {
+            "code": "161890",
+            "name": "한국콜마",
+            "market": "KOSPI",
+            "close": 80200,
+            "changes_ratio": 3.62,
+            "volume": 484072,
+            "amount": 38603328100,
+            "marcap": 1893127175400,
+            "ohlc": {
+                "open": 75200,
+                "high": 81500,
+                "low": 74800
+            },
+            "strength_score": 0.81,
+            "is_large_cap": true
+        },
+        {
+            "code": "005070",
+            "name": "코스모신소재",
+            "market": "KOSPI",
+            "close": 51700,
+            "changes_ratio": 3.61,
+            "volume": 235236,
+            "amount": 11889922225,
+            "marcap": 1680806085200,
+            "ohlc": {
+                "open": 48750,
+                "high": 52500,
+                "low": 47800
+            },
+            "strength_score": 0.83,
+            "is_large_cap": true
+        },
+        {
+            "code": "027360",
+            "name": "아주IB투자",
+            "market": "KOSDAQ",
+            "close": 9240,
+            "changes_ratio": 3.59,
+            "volume": 22861325,
+            "amount": 207829016080,
+            "marcap": 1119383551440,
+            "ohlc": {
+                "open": 8690,
+                "high": 9440,
+                "low": 8620
+            },
+            "strength_score": 0.76,
+            "is_large_cap": true
+        },
+        {
+            "code": "323280",
+            "name": "태성",
+            "market": "KOSDAQ",
+            "close": 58000,
+            "changes_ratio": 3.57,
+            "volume": 331013,
+            "amount": 18763302500,
+            "marcap": 1771202840000,
+            "ohlc": {
+                "open": 53500,
+                "high": 58700,
+                "low": 53100
+            },
+            "strength_score": 0.88,
+            "is_large_cap": true
+        },
+        {
+            "code": "032350",
+            "name": "롯데관광개발",
+            "market": "KOSPI",
+            "close": 19850,
+            "changes_ratio": 3.55,
+            "volume": 579515,
+            "amount": 11296333070,
+            "marcap": 1580089258900,
+            "ohlc": {
+                "open": 18500,
+                "high": 19910,
+                "low": 18480
+            },
+            "strength_score": 0.96,
+            "is_large_cap": true
+        },
+        {
+            "code": "290650",
+            "name": "엘앤씨바이오",
+            "market": "KOSDAQ",
+            "close": 73400,
+            "changes_ratio": 3.53,
+            "volume": 201606,
+            "amount": 14658524500,
+            "marcap": 1823774424200,
+            "ohlc": {
+                "open": 69600,
+                "high": 74600,
+                "low": 69100
+            },
+            "strength_score": 0.78,
+            "is_large_cap": true
+        },
+        {
+            "code": "000500",
+            "name": "가온전선",
+            "market": "KOSPI",
+            "close": 109300,
+            "changes_ratio": 3.5,
+            "volume": 44681,
+            "amount": 4714168450,
+            "marcap": 1808162469500,
+            "ohlc": {
+                "open": 101900,
+                "high": 111000,
+                "low": 96400
+            },
+            "strength_score": 0.88,
+            "is_large_cap": true
+        },
+        {
+            "code": "069620",
+            "name": "대웅제약",
+            "market": "KOSPI",
+            "close": 167000,
+            "changes_ratio": 3.47,
+            "volume": 32264,
+            "amount": 5305824500,
+            "marcap": 1934958025000,
+            "ohlc": {
+                "open": 159600,
+                "high": 167000,
+                "low": 158300
+            },
+            "strength_score": 1.0,
+            "is_large_cap": true
+        },
+        {
+            "code": "141080",
+            "name": "리가켐바이오",
+            "market": "KOSDAQ GLOBAL",
+            "close": 213500,
+            "changes_ratio": 3.39,
+            "volume": 404308,
+            "amount": 85734189750,
+            "marcap": 7816307163000,
+            "ohlc": {
+                "open": 212500,
+                "high": 219000,
+                "low": 201500
+            },
+            "strength_score": 0.69,
+            "is_large_cap": true
+        },
+        {
+            "code": "005690",
+            "name": "파미셀",
+            "market": "KOSPI",
+            "close": 16920,
+            "changes_ratio": 3.36,
+            "volume": 874404,
+            "amount": 14466400430,
+            "marcap": 1015487030880,
+            "ohlc": {
+                "open": 16060,
+                "high": 17020,
+                "low": 15800
+            },
+            "strength_score": 0.92,
+            "is_large_cap": true
+        },
+        {
+            "code": "096530",
+            "name": "씨젠",
+            "market": "KOSDAQ",
+            "close": 23350,
+            "changes_ratio": 3.32,
+            "volume": 226139,
+            "amount": 5215507575,
+            "marcap": 1219476959900,
+            "ohlc": {
+                "open": 22400,
+                "high": 23450,
+                "low": 22300
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "214370",
+            "name": "케어젠",
+            "market": "KOSDAQ",
+            "close": 96900,
+            "changes_ratio": 3.3,
+            "volume": 105731,
+            "amount": 9993102650,
+            "marcap": 5204983500000,
+            "ohlc": {
+                "open": 92100,
+                "high": 98400,
+                "low": 90000
+            },
+            "strength_score": 0.82,
+            "is_large_cap": true
+        },
+        {
+            "code": "016360",
+            "name": "삼성증권",
+            "market": "KOSPI",
+            "close": 97600,
+            "changes_ratio": 3.28,
+            "volume": 414979,
+            "amount": 39666493700,
+            "marcap": 8715680000000,
+            "ohlc": {
+                "open": 92000,
+                "high": 98300,
+                "low": 91600
+            },
+            "strength_score": 0.9,
+            "is_large_cap": true
+        },
+        {
+            "code": "065350",
+            "name": "신성델타테크",
+            "market": "KOSDAQ",
+            "close": 58000,
+            "changes_ratio": 3.2,
+            "volume": 146121,
+            "amount": 8312241050,
+            "marcap": 1594068984000,
+            "ohlc": {
+                "open": 54600,
+                "high": 58800,
+                "low": 54300
+            },
+            "strength_score": 0.82,
+            "is_large_cap": true
+        },
+        {
+            "code": "089860",
+            "name": "롯데렌탈",
+            "market": "KOSPI",
+            "close": 32600,
+            "changes_ratio": 3.16,
+            "volume": 54418,
+            "amount": 1745213725,
+            "marcap": 1183686048800,
+            "ohlc": {
+                "open": 31400,
+                "high": 32600,
+                "low": 31250
+            },
+            "strength_score": 1.0,
+            "is_large_cap": true
+        },
+        {
+            "code": "298020",
+            "name": "효성티앤씨",
+            "market": "KOSPI",
+            "close": 401500,
+            "changes_ratio": 3.08,
+            "volume": 47944,
+            "amount": 19223316000,
+            "marcap": 1737564323000,
+            "ohlc": {
+                "open": 383500,
+                "high": 417500,
+                "low": 377000
+            },
+            "strength_score": 0.6,
+            "is_large_cap": true
+        },
+        {
+            "code": "058610",
+            "name": "에스피지",
+            "market": "KOSDAQ",
+            "close": 111300,
+            "changes_ratio": 3.06,
+            "volume": 315887,
+            "amount": 34143770150,
+            "marcap": 2468340168000,
+            "ohlc": {
+                "open": 102900,
+                "high": 112200,
+                "low": 101500
+            },
+            "strength_score": 0.92,
+            "is_large_cap": true
+        },
+        {
+            "code": "005940",
+            "name": "NH투자증권",
+            "market": "KOSPI",
+            "close": 34250,
+            "changes_ratio": 3.01,
+            "volume": 1078231,
+            "amount": 36343996800,
+            "marcap": 12204794638250,
+            "ohlc": {
+                "open": 32350,
+                "high": 35150,
+                "low": 32150
+            },
+            "strength_score": 0.7,
+            "is_large_cap": true
+        },
+        {
+            "code": "445680",
+            "name": "큐리옥스바이오시스템즈",
+            "market": "KOSDAQ",
+            "close": 113200,
+            "changes_ratio": -3.0,
+            "volume": 85271,
+            "amount": 9527709800,
+            "marcap": 1937965095600,
+            "ohlc": {
+                "open": 113600,
+                "high": 115200,
+                "low": 108700
+            },
+            "strength_score": 0.69,
+            "is_large_cap": true
+        },
+        {
+            "code": "112610",
+            "name": "씨에스윈드",
+            "market": "KOSPI",
+            "close": 60200,
+            "changes_ratio": -3.06,
+            "volume": 312281,
+            "amount": 18778923900,
+            "marcap": 2538718460600,
+            "ohlc": {
+                "open": 60100,
+                "high": 61400,
+                "low": 59200
+            },
+            "strength_score": 0.45,
+            "is_large_cap": true
+        },
+        {
+            "code": "493280",
+            "name": "아이엠바이오로직스",
+            "market": "KOSDAQ",
+            "close": 74900,
+            "changes_ratio": -3.1,
+            "volume": 194453,
+            "amount": 14638150600,
+            "marcap": 1106730639000,
+            "ohlc": {
+                "open": 77300,
+                "high": 77700,
+                "low": 73300
+            },
+            "strength_score": 0.36,
+            "is_large_cap": true
+        },
+        {
+            "code": "009830",
+            "name": "한화솔루션",
+            "market": "KOSPI",
+            "close": 35650,
+            "changes_ratio": -3.13,
+            "volume": 5559359,
+            "amount": 191764588100,
+            "marcap": 6127968908400,
+            "ohlc": {
+                "open": 34850,
+                "high": 35650,
+                "low": 33600
+            },
+            "strength_score": 1.0,
+            "is_large_cap": true
+        },
+        {
+            "code": "097230",
+            "name": "HJ중공업",
+            "market": "KOSPI",
+            "close": 24550,
+            "changes_ratio": -3.16,
+            "volume": 1115471,
+            "amount": 27391328500,
+            "marcap": 2216750695200,
+            "ohlc": {
+                "open": 24600,
+                "high": 25350,
+                "low": 24000
+            },
+            "strength_score": 0.41,
+            "is_large_cap": true
+        },
+        {
+            "code": "028260",
+            "name": "삼성물산",
+            "market": "KOSPI",
+            "close": 269000,
+            "changes_ratio": -3.24,
+            "volume": 683519,
+            "amount": 181003086500,
+            "marcap": 45723690336000,
+            "ohlc": {
+                "open": 267500,
+                "high": 270500,
+                "low": 258000
+            },
+            "strength_score": 0.88,
+            "is_large_cap": true
+        },
+        {
+            "code": "006260",
+            "name": "LS",
+            "market": "KOSPI",
+            "close": 268000,
+            "changes_ratio": -3.25,
+            "volume": 142220,
+            "amount": 37398839000,
+            "marcap": 8361600000000,
+            "ohlc": {
+                "open": 264000,
+                "high": 270500,
+                "low": 256500
+            },
+            "strength_score": 0.82,
+            "is_large_cap": true
+        },
+        {
+            "code": "475830",
+            "name": "오름테라퓨틱",
+            "market": "KOSDAQ",
+            "close": 112400,
+            "changes_ratio": -3.27,
+            "volume": 175110,
+            "amount": 19509126350,
+            "marcap": 2386518163200,
+            "ohlc": {
+                "open": 117100,
+                "high": 117100,
+                "low": 108900
+            },
+            "strength_score": 0.43,
+            "is_large_cap": true
+        },
+        {
+            "code": "489790",
+            "name": "한화비전",
+            "market": "KOSPI",
+            "close": 80500,
+            "changes_ratio": -3.36,
+            "volume": 752099,
+            "amount": 59885780300,
+            "marcap": 4064315395000,
+            "ohlc": {
+                "open": 79900,
+                "high": 82100,
+                "low": 77800
+            },
+            "strength_score": 0.63,
+            "is_large_cap": true
+        },
+        {
+            "code": "101490",
+            "name": "에스앤에스텍",
+            "market": "KOSDAQ",
+            "close": 83500,
+            "changes_ratio": -3.36,
+            "volume": 216916,
+            "amount": 17847954350,
+            "marcap": 1781462396500,
+            "ohlc": {
+                "open": 83000,
+                "high": 85000,
+                "low": 80500
+            },
+            "strength_score": 0.67,
+            "is_large_cap": true
+        },
+        {
+            "code": "014680",
+            "name": "한솔케미칼",
+            "market": "KOSPI",
+            "close": 273000,
+            "changes_ratio": -3.36,
+            "volume": 49475,
+            "amount": 13327039250,
+            "marcap": 3104063235000,
+            "ohlc": {
+                "open": 277500,
+                "high": 284000,
+                "low": 265000
+            },
+            "strength_score": 0.42,
+            "is_large_cap": true
+        },
+        {
+            "code": "267250",
+            "name": "HD현대",
+            "market": "KOSPI",
+            "close": 257500,
+            "changes_ratio": -3.38,
+            "volume": 118999,
+            "amount": 30096190500,
+            "marcap": 20340719387500,
+            "ohlc": {
+                "open": 256500,
+                "high": 257500,
+                "low": 247000
+            },
+            "strength_score": 1.0,
+            "is_large_cap": true
+        },
+        {
+            "code": "232140",
+            "name": "와이씨",
+            "market": "KOSDAQ",
+            "close": 18740,
+            "changes_ratio": -3.4,
+            "volume": 975776,
+            "amount": 18029975090,
+            "marcap": 1537529859000,
+            "ohlc": {
+                "open": 18750,
+                "high": 19180,
+                "low": 17980
+            },
+            "strength_score": 0.63,
+            "is_large_cap": true
+        },
+        {
+            "code": "030530",
+            "name": "원익홀딩스",
+            "market": "KOSDAQ",
+            "close": 29450,
+            "changes_ratio": -3.6,
+            "volume": 728730,
+            "amount": 21328371100,
+            "marcap": 2274658540450,
+            "ohlc": {
+                "open": 29400,
+                "high": 30050,
+                "low": 28550
+            },
+            "strength_score": 0.6,
+            "is_large_cap": true
+        },
+        {
+            "code": "103590",
+            "name": "일진전기",
+            "market": "KOSPI",
+            "close": 75100,
+            "changes_ratio": -3.72,
+            "volume": 323890,
+            "amount": 24135528250,
+            "marcap": 3581172789000,
+            "ohlc": {
+                "open": 75800,
+                "high": 76850,
+                "low": 72400
+            },
+            "strength_score": 0.61,
+            "is_large_cap": true
+        },
+        {
+            "code": "001120",
+            "name": "LX인터내셔널",
+            "market": "KOSPI",
+            "close": 46400,
+            "changes_ratio": -3.73,
+            "volume": 270584,
+            "amount": 12612418450,
+            "marcap": 1798464000000,
+            "ohlc": {
+                "open": 48250,
+                "high": 49850,
+                "low": 45350
+            },
+            "strength_score": 0.23,
+            "is_large_cap": true
+        },
+        {
+            "code": "007660",
+            "name": "이수페타시스",
+            "market": "KOSPI",
+            "close": 110500,
+            "changes_ratio": -3.91,
+            "volume": 878951,
+            "amount": 95906608850,
+            "marcap": 8111718699500,
+            "ohlc": {
+                "open": 110100,
+                "high": 113000,
+                "low": 106800
+            },
+            "strength_score": 0.6,
+            "is_large_cap": true
+        },
+        {
+            "code": "095610",
+            "name": "테스",
+            "market": "KOSDAQ",
+            "close": 60900,
+            "changes_ratio": -3.94,
+            "volume": 235496,
+            "amount": 14207669950,
+            "marcap": 1179024000000,
+            "ohlc": {
+                "open": 60100,
+                "high": 62700,
+                "low": 59100
+            },
+            "strength_score": 0.5,
+            "is_large_cap": true
+        },
+        {
+            "code": "491000",
+            "name": "리브스메드",
+            "market": "KOSDAQ",
+            "close": 75300,
+            "changes_ratio": -3.95,
+            "volume": 200770,
+            "amount": 15254580250,
+            "marcap": 1878990342300,
+            "ohlc": {
+                "open": 77000,
+                "high": 78300,
+                "low": 74300
+            },
+            "strength_score": 0.25,
+            "is_large_cap": true
+        },
+        {
+            "code": "010120",
+            "name": "LS ELECTRIC",
+            "market": "KOSPI",
+            "close": 801000,
+            "changes_ratio": -3.96,
+            "volume": 171991,
+            "amount": 135021369000,
+            "marcap": 24030000000000,
+            "ohlc": {
+                "open": 803000,
+                "high": 813000,
+                "low": 762000
+            },
+            "strength_score": 0.76,
+            "is_large_cap": true
+        },
+        {
+            "code": "000250",
+            "name": "삼천당제약",
+            "market": "KOSDAQ",
+            "close": 1111000,
+            "changes_ratio": -4.06,
+            "volume": 198989,
+            "amount": 221618438500,
+            "marcap": 26061251392000,
+            "ohlc": {
+                "open": 1161000,
+                "high": 1190000,
+                "low": 1074000
+            },
+            "strength_score": 0.32,
+            "is_large_cap": true
+        },
+        {
+            "code": "010130",
+            "name": "고려아연",
+            "market": "KOSPI",
+            "close": 1483000,
+            "changes_ratio": -4.08,
+            "volume": 30379,
+            "amount": 44069932500,
+            "marcap": 30954613027000,
+            "ohlc": {
+                "open": 1490000,
+                "high": 1490000,
+                "low": 1415000
+            },
+            "strength_score": 0.91,
+            "is_large_cap": true
+        },
+        {
+            "code": "131290",
+            "name": "티에스이",
+            "market": "KOSDAQ",
+            "close": 110300,
+            "changes_ratio": -4.09,
+            "volume": 99884,
+            "amount": 10871633400,
+            "marcap": 1220075618700,
+            "ohlc": {
+                "open": 110000,
+                "high": 112700,
+                "low": 105700
+            },
+            "strength_score": 0.66,
+            "is_large_cap": true
+        },
+        {
+            "code": "222800",
+            "name": "심텍",
+            "market": "KOSDAQ GLOBAL",
+            "close": 56200,
+            "changes_ratio": -4.1,
+            "volume": 642709,
+            "amount": 35978932000,
+            "marcap": 2098632651600,
+            "ohlc": {
+                "open": 56600,
+                "high": 58300,
+                "low": 54600
+            },
+            "strength_score": 0.43,
+            "is_large_cap": true
+        },
+        {
+            "code": "376900",
+            "name": "로킷헬스케어",
+            "market": "KOSDAQ",
+            "close": 124000,
+            "changes_ratio": -4.17,
+            "volume": 308844,
+            "amount": 38166671000,
+            "marcap": 1951603636000,
+            "ohlc": {
+                "open": 127900,
+                "high": 129300,
+                "low": 120800
+            },
+            "strength_score": 0.38,
+            "is_large_cap": true
+        },
+        {
+            "code": "322000",
+            "name": "HD현대에너지솔루션",
+            "market": "KOSPI",
+            "close": 123200,
+            "changes_ratio": -4.2,
+            "volume": 435682,
+            "amount": 54694677000,
+            "marcap": 1379840000000,
+            "ohlc": {
+                "open": 130100,
+                "high": 133500,
+                "low": 121200
+            },
+            "strength_score": 0.16,
+            "is_large_cap": true
+        },
+        {
+            "code": "052690",
+            "name": "한전기술",
+            "market": "KOSPI",
+            "close": 157000,
+            "changes_ratio": -4.21,
+            "volume": 205195,
+            "amount": 31785545300,
+            "marcap": 6000540000000,
+            "ohlc": {
+                "open": 159000,
+                "high": 159900,
+                "low": 150800
+            },
+            "strength_score": 0.68,
+            "is_large_cap": true
+        },
+        {
+            "code": "272210",
+            "name": "한화시스템",
+            "market": "KOSPI",
+            "close": 124100,
+            "changes_ratio": -4.32,
+            "volume": 1112940,
+            "amount": 135492902950,
+            "marcap": 23444896174900,
+            "ohlc": {
+                "open": 123000,
+                "high": 125000,
+                "low": 118100
+            },
+            "strength_score": 0.87,
+            "is_large_cap": true
+        },
+        {
+            "code": "319400",
+            "name": "현대무벡스",
+            "market": "KOSDAQ",
+            "close": 25800,
+            "changes_ratio": -4.44,
+            "volume": 1283566,
+            "amount": 32702683600,
+            "marcap": 2873501806200,
+            "ohlc": {
+                "open": 25900,
+                "high": 26250,
+                "low": 24950
+            },
+            "strength_score": 0.65,
+            "is_large_cap": true
+        },
+        {
+            "code": "015760",
+            "name": "한국전력",
+            "market": "KOSPI",
+            "close": 43900,
+            "changes_ratio": -4.57,
+            "volume": 2748626,
+            "amount": 119273278525,
+            "marcap": 28182222980300,
+            "ohlc": {
+                "open": 44150,
+                "high": 44400,
+                "low": 42200
+            },
+            "strength_score": 0.77,
+            "is_large_cap": true
+        },
+        {
+            "code": "067310",
+            "name": "하나마이크론",
+            "market": "KOSDAQ",
+            "close": 31100,
+            "changes_ratio": -4.6,
+            "volume": 2071698,
+            "amount": 63981989025,
+            "marcap": 2066082658600,
+            "ohlc": {
+                "open": 31600,
+                "high": 32200,
+                "low": 30000
+            },
+            "strength_score": 0.5,
+            "is_large_cap": true
+        },
+        {
+            "code": "417200",
+            "name": "LS머트리얼즈",
+            "market": "KOSDAQ",
+            "close": 19120,
+            "changes_ratio": -4.64,
+            "volume": 2379776,
+            "amount": 45448476710,
+            "marcap": 1293518840080,
+            "ohlc": {
+                "open": 19650,
+                "high": 19980,
+                "low": 18780
+            },
+            "strength_score": 0.28,
+            "is_large_cap": true
+        },
+        {
+            "code": "047050",
+            "name": "포스코인터내셔널",
+            "market": "KOSPI",
+            "close": 74500,
+            "changes_ratio": -4.73,
+            "volume": 975843,
+            "amount": 72094386500,
+            "marcap": 13106247706000,
+            "ohlc": {
+                "open": 76900,
+                "high": 77200,
+                "low": 72600
+            },
+            "strength_score": 0.41,
+            "is_large_cap": true
+        },
+        {
+            "code": "038500",
+            "name": "삼표시멘트",
+            "market": "KOSDAQ",
+            "close": 16390,
+            "changes_ratio": -4.88,
+            "volume": 3992452,
+            "amount": 66552322205,
+            "marcap": 1768748255340,
+            "ohlc": {
+                "open": 16880,
+                "high": 18190,
+                "low": 15890
+            },
+            "strength_score": 0.22,
+            "is_large_cap": true
+        },
+        {
+            "code": "083650",
+            "name": "비에이치아이",
+            "market": "KOSDAQ",
+            "close": 94800,
+            "changes_ratio": -4.91,
+            "volume": 344085,
+            "amount": 32189680300,
+            "marcap": 2933526750000,
+            "ohlc": {
+                "open": 95300,
+                "high": 96200,
+                "low": 91400
+            },
+            "strength_score": 0.71,
+            "is_large_cap": true
+        },
+        {
+            "code": "009150",
+            "name": "삼성전기",
+            "market": "KOSPI",
+            "close": 434000,
+            "changes_ratio": -5.03,
+            "volume": 700060,
+            "amount": 299397337000,
+            "marcap": 32417064064000,
+            "ohlc": {
+                "open": 436500,
+                "high": 438500,
+                "low": 418000
+            },
+            "strength_score": 0.78,
+            "is_large_cap": true
+        },
+        {
+            "code": "077970",
+            "name": "STX엔진",
+            "market": "KOSPI",
+            "close": 33500,
+            "changes_ratio": -5.1,
+            "volume": 189197,
+            "amount": 6315801425,
+            "marcap": 1344960110500,
+            "ohlc": {
+                "open": 34200,
+                "high": 34650,
+                "low": 32850
+            },
+            "strength_score": 0.36,
+            "is_large_cap": true
+        },
+        {
+            "code": "174900",
+            "name": "앱클론",
+            "market": "KOSDAQ",
+            "close": 71800,
+            "changes_ratio": -5.15,
+            "volume": 315574,
+            "amount": 22949208100,
+            "marcap": 1430651618000,
+            "ohlc": {
+                "open": 75600,
+                "high": 77200,
+                "low": 70400
+            },
+            "strength_score": 0.21,
+            "is_large_cap": true
+        },
+        {
+            "code": "267260",
+            "name": "HD현대일렉트릭",
+            "market": "KOSPI",
+            "close": 915000,
+            "changes_ratio": -5.18,
+            "volume": 164950,
+            "amount": 149388811000,
+            "marcap": 32983128525000,
+            "ohlc": {
+                "open": 933000,
+                "high": 937000,
+                "low": 887000
+            },
+            "strength_score": 0.56,
+            "is_large_cap": true
+        },
+        {
+            "code": "082740",
+            "name": "한화엔진",
+            "market": "KOSPI",
+            "close": 46650,
+            "changes_ratio": -5.18,
+            "volume": 518286,
+            "amount": 23909646475,
+            "marcap": 3892809174300,
+            "ohlc": {
+                "open": 47450,
+                "high": 47500,
+                "low": 45250
+            },
+            "strength_score": 0.62,
+            "is_large_cap": true
+        },
+        {
+            "code": "012630",
+            "name": "HDC",
+            "market": "KOSPI",
+            "close": 28550,
+            "changes_ratio": -5.31,
+            "volume": 219462,
+            "amount": 6318877600,
+            "marcap": 1705626134550,
+            "ohlc": {
+                "open": 29300,
+                "high": 29900,
+                "low": 28300
+            },
+            "strength_score": 0.16,
+            "is_large_cap": true
+        },
+        {
+            "code": "017960",
+            "name": "한국카본",
+            "market": "KOSPI",
+            "close": 40500,
+            "changes_ratio": -5.37,
+            "volume": 540525,
+            "amount": 21767565900,
+            "marcap": 2102292306000,
+            "ohlc": {
+                "open": 41300,
+                "high": 41550,
+                "low": 39600
+            },
+            "strength_score": 0.46,
+            "is_large_cap": true
+        },
+        {
+            "code": "084370",
+            "name": "유진테크",
+            "market": "KOSDAQ",
+            "close": 116800,
+            "changes_ratio": -5.88,
+            "volume": 203962,
+            "amount": 23823836000,
+            "marcap": 2676593705600,
+            "ohlc": {
+                "open": 117700,
+                "high": 119700,
+                "low": 114500
+            },
+            "strength_score": 0.44,
+            "is_large_cap": true
+        },
+        {
+            "code": "178320",
+            "name": "서진시스템",
+            "market": "KOSDAQ",
+            "close": 43350,
+            "changes_ratio": -6.37,
+            "volume": 2634585,
+            "amount": 113532483775,
+            "marcap": 2547686696100,
+            "ohlc": {
+                "open": 45000,
+                "high": 46300,
+                "low": 41600
+            },
+            "strength_score": 0.37,
+            "is_large_cap": true
+        },
+        {
+            "code": "298040",
+            "name": "효성중공업",
+            "market": "KOSPI",
+            "close": 2676000,
+            "changes_ratio": -6.43,
+            "volume": 65913,
+            "amount": 175789633000,
+            "marcap": 24952490448000,
+            "ohlc": {
+                "open": 2785000,
+                "high": 2787000,
+                "low": 2601000
+            },
+            "strength_score": 0.4,
+            "is_large_cap": true
+        },
+        {
+            "code": "100090",
+            "name": "SK오션플랜트",
+            "market": "KOSPI",
+            "close": 26850,
+            "changes_ratio": -6.45,
+            "volume": 2008655,
+            "amount": 53816936200,
+            "marcap": 1677537763650,
+            "ohlc": {
+                "open": 27050,
+                "high": 27100,
+                "low": 26300
+            },
+            "strength_score": 0.69,
+            "is_large_cap": true
+        },
+        {
+            "code": "295310",
+            "name": "에이치브이엠",
+            "market": "KOSDAQ",
+            "close": 95200,
+            "changes_ratio": -6.67,
+            "volume": 283693,
+            "amount": 27258745700,
+            "marcap": 1144998103200,
+            "ohlc": {
+                "open": 97700,
+                "high": 100700,
+                "low": 94000
+            },
+            "strength_score": 0.18,
+            "is_large_cap": true
+        },
+        {
+            "code": "062040",
+            "name": "산일전기",
+            "market": "KOSPI",
+            "close": 149300,
+            "changes_ratio": -11.45,
+            "volume": 4238017,
+            "amount": 625041037050,
+            "marcap": 4560398360000,
+            "ohlc": {
+                "open": 162100,
+                "high": 162500,
+                "low": 145000
+            },
+            "strength_score": 0.25,
+            "is_large_cap": true
+        }
+    ],
+    "mid_small_cap_movers": [
+        {
+            "code": "0130H0",
+            "name": "엔에이치스팩33호",
+            "market": "KOSDAQ",
+            "close": 2660,
+            "changes_ratio": 33.0,
+            "volume": 208152098,
+            "amount": 1000642085388,
+            "marcap": 20482000000,
+            "ohlc": {
+                "open": 3460,
+                "high": 6870,
+                "low": 2660
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "049080",
+            "name": "기가레인",
+            "market": "KOSDAQ",
+            "close": 1079,
+            "changes_ratio": 30.0,
+            "volume": 61228239,
+            "amount": 61714484273,
+            "marcap": 91589131413,
+            "ohlc": {
+                "open": 806,
+                "high": 1079,
+                "low": 700
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "289080",
+            "name": "SV인베스트먼트",
+            "market": "KOSDAQ",
+            "close": 4550,
+            "changes_ratio": 30.0,
+            "volume": 13834351,
+            "amount": 57519787780,
+            "marcap": 247139265100,
+            "ohlc": {
+                "open": 3720,
+                "high": 4550,
+                "low": 3640
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "452300",
+            "name": "캡스톤파트너스",
+            "market": "KOSDAQ",
+            "close": 4010,
+            "changes_ratio": 29.98,
+            "volume": 12764389,
+            "amount": 48419603618,
+            "marcap": 56819715050,
+            "ohlc": {
+                "open": 3140,
+                "high": 4010,
+                "low": 3000
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "225430",
+            "name": "케이엠제약",
+            "market": "KOSDAQ",
+            "close": 811,
+            "changes_ratio": 29.97,
+            "volume": 2471608,
+            "amount": 1972021566,
+            "marcap": 22616397550,
+            "ohlc": {
+                "open": 787,
+                "high": 811,
+                "low": 773
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "046970",
+            "name": "우리로",
+            "market": "KOSDAQ",
+            "close": 7720,
+            "changes_ratio": 29.97,
+            "volume": 27988249,
+            "amount": 189310412485,
+            "marcap": 338328992280,
+            "ohlc": {
+                "open": 6420,
+                "high": 7720,
+                "low": 5790
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "049120",
+            "name": "파인디앤씨",
+            "market": "KOSDAQ",
+            "close": 664,
+            "changes_ratio": 29.94,
+            "volume": 878297,
+            "amount": 556667007,
+            "marcap": 35197523816,
+            "ohlc": {
+                "open": 511,
+                "high": 664,
+                "low": 511
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "020400",
+            "name": "대동금속",
+            "market": "KOSDAQ",
+            "close": 9380,
+            "changes_ratio": 29.92,
+            "volume": 2989178,
+            "amount": 26327989905,
+            "marcap": 29914377080,
+            "ohlc": {
+                "open": 7430,
+                "high": 9380,
+                "low": 7030
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "039740",
+            "name": "한국정보공학",
+            "market": "KOSDAQ",
+            "close": 4520,
+            "changes_ratio": 29.89,
+            "volume": 1194819,
+            "amount": 5180351239,
+            "marcap": 36243154440,
+            "ohlc": {
+                "open": 3500,
+                "high": 4520,
+                "low": 3400
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "217730",
+            "name": "강스템바이오텍",
+            "market": "KOSDAQ",
+            "close": 3585,
+            "changes_ratio": 29.89,
+            "volume": 19402295,
+            "amount": 66207198527,
+            "marcap": 337184124165,
+            "ohlc": {
+                "open": 2810,
+                "high": 3585,
+                "low": 2810
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "037030",
+            "name": "파워넷",
+            "market": "KOSDAQ",
+            "close": 5250,
+            "changes_ratio": 29.79,
+            "volume": 17211878,
+            "amount": 83111475268,
+            "marcap": 133943208000,
+            "ohlc": {
+                "open": 3995,
+                "high": 5250,
+                "low": 3995
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "161000",
+            "name": "애경케미칼",
+            "market": "KOSPI",
+            "close": 11400,
+            "changes_ratio": 22.58,
+            "volume": 4822973,
+            "amount": 52765692065,
+            "marcap": 554595282600,
+            "ohlc": {
+                "open": 11230,
+                "high": 11480,
+                "low": 10300
+            },
+            "strength_score": 0.93,
+            "is_large_cap": false
+        },
+        {
+            "code": "078350",
+            "name": "한양디지텍",
+            "market": "KOSDAQ",
+            "close": 34850,
+            "changes_ratio": 20.8,
+            "volume": 1387784,
+            "amount": 45352099500,
+            "marcap": 531266712700,
+            "ohlc": {
+                "open": 27700,
+                "high": 35500,
+                "low": 26500
+            },
+            "strength_score": 0.93,
+            "is_large_cap": false
+        },
+        {
+            "code": "199800",
+            "name": "툴젠",
+            "market": "KOSDAQ",
+            "close": 56100,
+            "changes_ratio": 20.13,
+            "volume": 258087,
+            "amount": 14700138900,
+            "marcap": 504553806900,
+            "ohlc": {
+                "open": 58000,
+                "high": 60400,
+                "low": 53500
+            },
+            "strength_score": 0.38,
+            "is_large_cap": false
+        },
+        {
+            "code": "225530",
+            "name": "HC보광산업",
+            "market": "KOSDAQ",
+            "close": 4260,
+            "changes_ratio": 20.0,
+            "volume": 1456032,
+            "amount": 5791202418,
+            "marcap": 154802977020,
+            "ohlc": {
+                "open": 3530,
+                "high": 4325,
+                "low": 3485
+            },
+            "strength_score": 0.92,
+            "is_large_cap": false
+        },
+        {
+            "code": "065420",
+            "name": "에스아이리소스",
+            "market": "KOSDAQ",
+            "close": 248,
+            "changes_ratio": 19.81,
+            "volume": 56863237,
+            "amount": 14378517254,
+            "marcap": 17751170152,
+            "ohlc": {
+                "open": 208,
+                "high": 269,
+                "low": 206
+            },
+            "strength_score": 0.67,
+            "is_large_cap": false
+        },
+        {
+            "code": "032790",
+            "name": "엠젠솔루션",
+            "market": "KOSDAQ",
+            "close": 958,
+            "changes_ratio": 19.15,
+            "volume": 3890659,
+            "amount": 3670525225,
+            "marcap": 49203083096,
+            "ohlc": {
+                "open": 805,
+                "high": 1035,
+                "low": 805
+            },
+            "strength_score": 0.67,
+            "is_large_cap": false
+        },
+        {
+            "code": "054090",
+            "name": "삼진엘앤디",
+            "market": "KOSDAQ",
+            "close": 979,
+            "changes_ratio": 17.95,
+            "volume": 2316769,
+            "amount": 2136084435,
+            "marcap": 24435088128,
+            "ohlc": {
+                "open": 823,
+                "high": 990,
+                "low": 809
+            },
+            "strength_score": 0.94,
+            "is_large_cap": false
+        },
+        {
+            "code": "121890",
+            "name": "에스디시스템",
+            "market": "KOSDAQ",
+            "close": 1675,
+            "changes_ratio": 17.13,
+            "volume": 638001,
+            "amount": 1035149450,
+            "marcap": 22263172050,
+            "ohlc": {
+                "open": 1480,
+                "high": 1730,
+                "low": 1442
+            },
+            "strength_score": 0.81,
+            "is_large_cap": false
+        },
+        {
+            "code": "012690",
+            "name": "모나리자",
+            "market": "KOSPI",
+            "close": 2465,
+            "changes_ratio": 16.55,
+            "volume": 20531969,
+            "amount": 50915439056,
+            "marcap": 90148143575,
+            "ohlc": {
+                "open": 2175,
+                "high": 2665,
+                "low": 2155
+            },
+            "strength_score": 0.61,
+            "is_large_cap": false
+        },
+        {
+            "code": "402490",
+            "name": "그린리소스",
+            "market": "KOSDAQ",
+            "close": 15410,
+            "changes_ratio": 16.21,
+            "volume": 4614525,
+            "amount": 69653207960,
+            "marcap": 255274170080,
+            "ohlc": {
+                "open": 14460,
+                "high": 15870,
+                "low": 13990
+            },
+            "strength_score": 0.76,
+            "is_large_cap": false
+        },
+        {
+            "code": "424870",
+            "name": "이뮨온시아",
+            "market": "KOSDAQ",
+            "close": 9760,
+            "changes_ratio": 15.5,
+            "volume": 4204785,
+            "amount": 40318128810,
+            "marcap": 725790971040,
+            "ohlc": {
+                "open": 10210,
+                "high": 10210,
+                "low": 9040
+            },
+            "strength_score": 0.62,
+            "is_large_cap": false
+        },
+        {
+            "code": "217320",
+            "name": "썬테크",
+            "market": "KONEX",
+            "close": 9520,
+            "changes_ratio": 14.98,
+            "volume": 31,
+            "amount": 294800,
+            "marcap": 9996000000,
+            "ohlc": {
+                "open": 9500,
+                "high": 9520,
+                "low": 9500
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "332190",
+            "name": "오션스바이오",
+            "market": "KONEX",
+            "close": 1489,
+            "changes_ratio": 14.98,
+            "volume": 749,
+            "amount": 1011289,
+            "marcap": 2200502271,
+            "ohlc": {
+                "open": 1350,
+                "high": 1489,
+                "low": 1350
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "229500",
+            "name": "노브메타파마",
+            "market": "KONEX",
+            "close": 8040,
+            "changes_ratio": 14.86,
+            "volume": 3918,
+            "amount": 28360140,
+            "marcap": 103246094160,
+            "ohlc": {
+                "open": 7200,
+                "high": 8040,
+                "low": 6840
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "199290",
+            "name": "바이오프로테크",
+            "market": "KONEX",
+            "close": 358,
+            "changes_ratio": 14.74,
+            "volume": 2386,
+            "amount": 854144,
+            "marcap": 5844418736,
+            "ohlc": {
+                "open": 358,
+                "high": 358,
+                "low": 325
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "140660",
+            "name": "위월드",
+            "market": "KONEX",
+            "close": 1500,
+            "changes_ratio": 14.42,
+            "volume": 1,
+            "amount": 1500,
+            "marcap": 3730878000,
+            "ohlc": {
+                "open": 1500,
+                "high": 1500,
+                "low": 1500
+            },
+            "strength_score": 0,
+            "is_large_cap": false
+        },
+        {
+            "code": "192410",
+            "name": "오늘이엔엠",
+            "market": "KOSDAQ",
+            "close": 4585,
+            "changes_ratio": 14.34,
+            "volume": 2093788,
+            "amount": 9859279870,
+            "marcap": 106971653810,
+            "ohlc": {
+                "open": 4010,
+                "high": 5200,
+                "low": 4010
+            },
+            "strength_score": 0.48,
+            "is_large_cap": false
+        },
+        {
+            "code": "046210",
+            "name": "HLB파나진",
+            "market": "KOSDAQ",
+            "close": 2650,
+            "changes_ratio": 14.22,
+            "volume": 2781571,
+            "amount": 7527470092,
+            "marcap": 120497233100,
+            "ohlc": {
+                "open": 2265,
+                "high": 2940,
+                "low": 2265
+            },
+            "strength_score": 0.57,
+            "is_large_cap": false
+        },
+        {
+            "code": "084990",
+            "name": "헬릭스미스",
+            "market": "KOSDAQ",
+            "close": 8010,
+            "changes_ratio": 14.1,
+            "volume": 2605590,
+            "amount": 20154005505,
+            "marcap": 369203303970,
+            "ohlc": {
+                "open": 7020,
+                "high": 8390,
+                "low": 6870
+            },
+            "strength_score": 0.75,
+            "is_large_cap": false
+        },
+        {
+            "code": "475580",
+            "name": "에이럭스",
+            "market": "KOSDAQ",
+            "close": 14000,
+            "changes_ratio": 13.73,
+            "volume": 4176745,
+            "amount": 57258729440,
+            "marcap": 190748600000,
+            "ohlc": {
+                "open": 12000,
+                "high": 14490,
+                "low": 11990
+            },
+            "strength_score": 0.8,
+            "is_large_cap": false
+        },
+        {
+            "code": "123330",
+            "name": "제닉",
+            "market": "KOSDAQ",
+            "close": 32600,
+            "changes_ratio": 13.39,
+            "volume": 1133573,
+            "amount": 36636411025,
+            "marcap": 259778968000,
+            "ohlc": {
+                "open": 28650,
+                "high": 34400,
+                "low": 28000
+            },
+            "strength_score": 0.72,
+            "is_large_cap": false
+        },
+        {
+            "code": "092040",
+            "name": "아미코젠",
+            "market": "KOSDAQ",
+            "close": 1829,
+            "changes_ratio": 13.11,
+            "volume": 3272128,
+            "amount": 5648898153,
+            "marcap": 129228702823,
+            "ohlc": {
+                "open": 1618,
+                "high": 1889,
+                "low": 1575
+            },
+            "strength_score": 0.81,
+            "is_large_cap": false
+        },
+        {
+            "code": "088280",
+            "name": "쏘닉스",
+            "market": "KOSDAQ",
+            "close": 4045,
+            "changes_ratio": 12.99,
+            "volume": 7303383,
+            "amount": 30878676157,
+            "marcap": 70004752050,
+            "ohlc": {
+                "open": 3470,
+                "high": 4650,
+                "low": 3380
+            },
+            "strength_score": 0.52,
+            "is_large_cap": false
+        },
+        {
+            "code": "123860",
+            "name": "아나패스",
+            "market": "KOSDAQ",
+            "close": 17420,
+            "changes_ratio": 12.9,
+            "volume": 136841,
+            "amount": 2306138940,
+            "marcap": 211189889300,
+            "ohlc": {
+                "open": 15300,
+                "high": 17600,
+                "low": 15230
+            },
+            "strength_score": 0.92,
+            "is_large_cap": false
+        },
+        {
+            "code": "009460",
+            "name": "한창제지",
+            "market": "KOSPI",
+            "close": 626,
+            "changes_ratio": 12.79,
+            "volume": 39084164,
+            "amount": 26960046576,
+            "marcap": 37351846236,
+            "ohlc": {
+                "open": 590,
+                "high": 721,
+                "low": 560
+            },
+            "strength_score": 0.41,
+            "is_large_cap": false
+        },
+        {
+            "code": "371950",
+            "name": "풍원정밀",
+            "market": "KOSDAQ",
+            "close": 14070,
+            "changes_ratio": 12.47,
+            "volume": 190704,
+            "amount": 2616864650,
+            "marcap": 318862050360,
+            "ohlc": {
+                "open": 12510,
+                "high": 14500,
+                "low": 11910
+            },
+            "strength_score": 0.83,
+            "is_large_cap": false
+        },
+        {
+            "code": "069920",
+            "name": "엑시온그룹",
+            "market": "KOSDAQ",
+            "close": 491,
+            "changes_ratio": 12.36,
+            "volume": 2489158,
+            "amount": 1185635485,
+            "marcap": 22822961019,
+            "ohlc": {
+                "open": 462,
+                "high": 532,
+                "low": 420
+            },
+            "strength_score": 0.63,
+            "is_large_cap": false
+        },
+        {
+            "code": "106190",
+            "name": "하이텍팜",
+            "market": "KOSDAQ",
+            "close": 25000,
+            "changes_ratio": 12.11,
+            "volume": 251644,
+            "amount": 5999321200,
+            "marcap": 265829325000,
+            "ohlc": {
+                "open": 22000,
+                "high": 25000,
+                "low": 21350
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "311960",
+            "name": "인터로이드",
+            "market": "KONEX",
+            "close": 1610,
+            "changes_ratio": 10.96,
+            "volume": 266,
+            "amount": 425824,
+            "marcap": 4930889040,
+            "ohlc": {
+                "open": 1600,
+                "high": 1668,
+                "low": 1600
+            },
+            "strength_score": 0.15,
+            "is_large_cap": false
+        },
+        {
+            "code": "002020",
+            "name": "코오롱",
+            "market": "KOSPI",
+            "close": 69800,
+            "changes_ratio": 10.79,
+            "volume": 225867,
+            "amount": 14839231750,
+            "marcap": 900956064000,
+            "ohlc": {
+                "open": 63500,
+                "high": 69800,
+                "low": 62100
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "241520",
+            "name": "DSC인베스트먼트",
+            "market": "KOSDAQ",
+            "close": 14960,
+            "changes_ratio": 10.73,
+            "volume": 5983793,
+            "amount": 91455832410,
+            "marcap": 403920000000,
+            "ohlc": {
+                "open": 13100,
+                "high": 16890,
+                "low": 13100
+            },
+            "strength_score": 0.49,
+            "is_large_cap": false
+        },
+        {
+            "code": "054920",
+            "name": "한컴위드",
+            "market": "KOSDAQ",
+            "close": 5230,
+            "changes_ratio": 10.69,
+            "volume": 4749023,
+            "amount": 24700737148,
+            "marcap": 147575333630,
+            "ohlc": {
+                "open": 4610,
+                "high": 5450,
+                "low": 4500
+            },
+            "strength_score": 0.77,
+            "is_large_cap": false
+        },
+        {
+            "code": "031310",
+            "name": "아이즈비전",
+            "market": "KOSDAQ",
+            "close": 1743,
+            "changes_ratio": 10.6,
+            "volume": 11534338,
+            "amount": 21181884800,
+            "marcap": 45936839949,
+            "ohlc": {
+                "open": 1576,
+                "high": 2020,
+                "low": 1560
+            },
+            "strength_score": 0.4,
+            "is_large_cap": false
+        },
+        {
+            "code": "308080",
+            "name": "바이젠셀",
+            "market": "KOSDAQ",
+            "close": 6000,
+            "changes_ratio": 10.5,
+            "volume": 1038220,
+            "amount": 6180432510,
+            "marcap": 122995560000,
+            "ohlc": {
+                "open": 5350,
+                "high": 6440,
+                "low": 5280
+            },
+            "strength_score": 0.62,
+            "is_large_cap": false
+        },
+        {
+            "code": "036560",
+            "name": "KZ정밀",
+            "market": "KOSDAQ",
+            "close": 14600,
+            "changes_ratio": 10.19,
+            "volume": 218836,
+            "amount": 3157132695,
+            "marcap": 229950000000,
+            "ohlc": {
+                "open": 13200,
+                "high": 14900,
+                "low": 13010
+            },
+            "strength_score": 0.84,
+            "is_large_cap": false
+        },
+        {
+            "code": "008775",
+            "name": "호텔신라우",
+            "market": "KOSPI",
+            "close": 36700,
+            "changes_ratio": 10.04,
+            "volume": 12495,
+            "amount": 444803675,
+            "marcap": 27593959300,
+            "ohlc": {
+                "open": 34450,
+                "high": 37100,
+                "low": 33800
+            },
+            "strength_score": 0.88,
+            "is_large_cap": false
+        },
+        {
+            "code": "390110",
+            "name": "애니메디솔루션",
+            "market": "KONEX",
+            "close": 398,
+            "changes_ratio": 9.94,
+            "volume": 12382,
+            "amount": 3903602,
+            "marcap": 3644504706,
+            "ohlc": {
+                "open": 416,
+                "high": 416,
+                "low": 308
+            },
+            "strength_score": 0.83,
+            "is_large_cap": false
+        },
+        {
+            "code": "008500",
+            "name": "일정실업",
+            "market": "KOSPI",
+            "close": 2785,
+            "changes_ratio": 9.65,
+            "volume": 79373,
+            "amount": 215668210,
+            "marcap": 16710000000,
+            "ohlc": {
+                "open": 2565,
+                "high": 2815,
+                "low": 2540
+            },
+            "strength_score": 0.89,
+            "is_large_cap": false
+        },
+        {
+            "code": "114920",
+            "name": "대주이엔티",
+            "market": "KONEX",
+            "close": 2845,
+            "changes_ratio": 9.63,
+            "volume": 46,
+            "amount": 130965,
+            "marcap": 9870727500,
+            "ohlc": {
+                "open": 2940,
+                "high": 2940,
+                "low": 2845
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "278280",
+            "name": "천보",
+            "market": "KOSDAQ",
+            "close": 52000,
+            "changes_ratio": 9.47,
+            "volume": 168059,
+            "amount": 8648660075,
+            "marcap": 625310296000,
+            "ohlc": {
+                "open": 48200,
+                "high": 54000,
+                "low": 47500
+            },
+            "strength_score": 0.69,
+            "is_large_cap": false
+        },
+        {
+            "code": "064800",
+            "name": "포니링크",
+            "market": "KOSDAQ",
+            "close": 721,
+            "changes_ratio": 9.24,
+            "volume": 843871,
+            "amount": 585640090,
+            "marcap": 92149061858,
+            "ohlc": {
+                "open": 658,
+                "high": 722,
+                "low": 656
+            },
+            "strength_score": 0.98,
+            "is_large_cap": false
+        },
+        {
+            "code": "039310",
+            "name": "세중",
+            "market": "KOSDAQ",
+            "close": 2500,
+            "changes_ratio": 9.17,
+            "volume": 2028818,
+            "amount": 5221930542,
+            "marcap": 45304167500,
+            "ohlc": {
+                "open": 2240,
+                "high": 2900,
+                "low": 2150
+            },
+            "strength_score": 0.47,
+            "is_large_cap": false
+        },
+        {
+            "code": "121600",
+            "name": "나노신소재",
+            "market": "KOSDAQ",
+            "close": 67900,
+            "changes_ratio": 9.16,
+            "volume": 201002,
+            "amount": 13326686000,
+            "marcap": 829139868900,
+            "ohlc": {
+                "open": 60500,
+                "high": 68800,
+                "low": 60400
+            },
+            "strength_score": 0.89,
+            "is_large_cap": false
+        },
+        {
+            "code": "294140",
+            "name": "레몬",
+            "market": "KOSDAQ",
+            "close": 3460,
+            "changes_ratio": 8.98,
+            "volume": 207101,
+            "amount": 704259594,
+            "marcap": 77555270280,
+            "ohlc": {
+                "open": 3330,
+                "high": 3575,
+                "low": 3055
+            },
+            "strength_score": 0.78,
+            "is_large_cap": false
+        },
+        {
+            "code": "065530",
+            "name": "와이어블",
+            "market": "KOSDAQ",
+            "close": 2085,
+            "changes_ratio": 8.88,
+            "volume": 19451700,
+            "amount": 42105343458,
+            "marcap": 99743812515,
+            "ohlc": {
+                "open": 1861,
+                "high": 2390,
+                "low": 1834
+            },
+            "strength_score": 0.45,
+            "is_large_cap": false
+        },
+        {
+            "code": "456010",
+            "name": "아이씨티케이",
+            "market": "KOSDAQ",
+            "close": 15350,
+            "changes_ratio": 8.87,
+            "volume": 1530803,
+            "amount": 23953411750,
+            "marcap": 213393458900,
+            "ohlc": {
+                "open": 13650,
+                "high": 16410,
+                "low": 13650
+            },
+            "strength_score": 0.62,
+            "is_large_cap": false
+        },
+        {
+            "code": "382800",
+            "name": "지앤비에스 에코",
+            "market": "KOSDAQ",
+            "close": 5470,
+            "changes_ratio": 8.75,
+            "volume": 2001253,
+            "amount": 10610980483,
+            "marcap": 174115794270,
+            "ohlc": {
+                "open": 4875,
+                "high": 5560,
+                "low": 4805
+            },
+            "strength_score": 0.88,
+            "is_large_cap": false
+        },
+        {
+            "code": "241710",
+            "name": "코스메카코리아",
+            "market": "KOSDAQ",
+            "close": 84600,
+            "changes_ratio": 8.74,
+            "volume": 147554,
+            "amount": 12230383800,
+            "marcap": 903528000000,
+            "ohlc": {
+                "open": 75500,
+                "high": 85200,
+                "low": 75500
+            },
+            "strength_score": 0.94,
+            "is_large_cap": false
+        },
+        {
+            "code": "089230",
+            "name": "THE E&M",
+            "market": "KOSDAQ",
+            "close": 3320,
+            "changes_ratio": 8.5,
+            "volume": 532981,
+            "amount": 1684157689,
+            "marcap": 108334873520,
+            "ohlc": {
+                "open": 3055,
+                "high": 3320,
+                "low": 2950
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "106240",
+            "name": "파인테크닉스",
+            "market": "KOSDAQ",
+            "close": 2425,
+            "changes_ratio": 8.5,
+            "volume": 648392,
+            "amount": 1512296409,
+            "marcap": 55455692975,
+            "ohlc": {
+                "open": 2235,
+                "high": 2450,
+                "low": 2140
+            },
+            "strength_score": 0.92,
+            "is_large_cap": false
+        },
+        {
+            "code": "388790",
+            "name": "라이콤",
+            "market": "KOSDAQ",
+            "close": 5130,
+            "changes_ratio": 8.23,
+            "volume": 1667833,
+            "amount": 8386094802,
+            "marcap": 157026206610,
+            "ohlc": {
+                "open": 4720,
+                "high": 5360,
+                "low": 4515
+            },
+            "strength_score": 0.73,
+            "is_large_cap": false
+        },
+        {
+            "code": "307870",
+            "name": "비투엔",
+            "market": "KOSDAQ",
+            "close": 1330,
+            "changes_ratio": 8.22,
+            "volume": 2066581,
+            "amount": 2689802011,
+            "marcap": 79220799630,
+            "ohlc": {
+                "open": 1289,
+                "high": 1338,
+                "low": 1255
+            },
+            "strength_score": 0.9,
+            "is_large_cap": false
+        },
+        {
+            "code": "251370",
+            "name": "와이엠티",
+            "market": "KOSDAQ",
+            "close": 16550,
+            "changes_ratio": 8.17,
+            "volume": 609881,
+            "amount": 9794428085,
+            "marcap": 291677365500,
+            "ohlc": {
+                "open": 14830,
+                "high": 16700,
+                "low": 14600
+            },
+            "strength_score": 0.93,
+            "is_large_cap": false
+        },
+        {
+            "code": "499790",
+            "name": "GS피앤엘",
+            "market": "KOSPI",
+            "close": 48000,
+            "changes_ratio": 7.99,
+            "volume": 148769,
+            "amount": 6955647900,
+            "marcap": 951880368000,
+            "ohlc": {
+                "open": 44450,
+                "high": 48400,
+                "low": 44100
+            },
+            "strength_score": 0.91,
+            "is_large_cap": false
+        },
+        {
+            "code": "142760",
+            "name": "모아라이프플러스",
+            "market": "KOSDAQ",
+            "close": 948,
+            "changes_ratio": 7.97,
+            "volume": 688142,
+            "amount": 630613296,
+            "marcap": 38686254180,
+            "ohlc": {
+                "open": 880,
+                "high": 950,
+                "low": 860
+            },
+            "strength_score": 0.98,
+            "is_large_cap": false
+        },
+        {
+            "code": "126600",
+            "name": "BGF에코머티리얼즈",
+            "market": "KOSDAQ",
+            "close": 3865,
+            "changes_ratio": 7.96,
+            "volume": 885309,
+            "amount": 3514359741,
+            "marcap": 242594064635,
+            "ohlc": {
+                "open": 3590,
+                "high": 4165,
+                "low": 3535
+            },
+            "strength_score": 0.52,
+            "is_large_cap": false
+        },
+        {
+            "code": "002630",
+            "name": "오리엔트바이오",
+            "market": "KOSPI",
+            "close": 628,
+            "changes_ratio": 7.9,
+            "volume": 13106281,
+            "amount": 8855626990,
+            "marcap": 74470127140,
+            "ohlc": {
+                "open": 600,
+                "high": 736,
+                "low": 600
+            },
+            "strength_score": 0.21,
+            "is_large_cap": false
+        },
+        {
+            "code": "129920",
+            "name": "대성하이텍",
+            "market": "KOSDAQ",
+            "close": 14370,
+            "changes_ratio": 7.88,
+            "volume": 595083,
+            "amount": 8424802490,
+            "marcap": 197085311610,
+            "ohlc": {
+                "open": 13960,
+                "high": 15230,
+                "low": 12740
+            },
+            "strength_score": 0.65,
+            "is_large_cap": false
+        },
+        {
+            "code": "166480",
+            "name": "코아스템켐온",
+            "market": "KOSDAQ",
+            "close": 2535,
+            "changes_ratio": 7.87,
+            "volume": 424175,
+            "amount": 1028164716,
+            "marcap": 134026403160,
+            "ohlc": {
+                "open": 2410,
+                "high": 2545,
+                "low": 2235
+            },
+            "strength_score": 0.97,
+            "is_large_cap": false
+        },
+        {
+            "code": "001460",
+            "name": "BYC",
+            "market": "KOSPI",
+            "close": 51500,
+            "changes_ratio": 7.85,
+            "volume": 5158,
+            "amount": 247132850,
+            "marcap": 321676725000,
+            "ohlc": {
+                "open": 47050,
+                "high": 51500,
+                "low": 46250
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "045510",
+            "name": "정원엔시스",
+            "market": "KOSDAQ",
+            "close": 1145,
+            "changes_ratio": 7.41,
+            "volume": 9480229,
+            "amount": 11344123023,
+            "marcap": 36879639340,
+            "ohlc": {
+                "open": 1065,
+                "high": 1320,
+                "low": 981
+            },
+            "strength_score": 0.48,
+            "is_large_cap": false
+        },
+        {
+            "code": "078860",
+            "name": "스테이지원엔터",
+            "market": "KOSDAQ",
+            "close": 480,
+            "changes_ratio": 7.38,
+            "volume": 1158946,
+            "amount": 533970502,
+            "marcap": 28493883360,
+            "ohlc": {
+                "open": 451,
+                "high": 492,
+                "low": 428
+            },
+            "strength_score": 0.81,
+            "is_large_cap": false
+        },
+        {
+            "code": "018290",
+            "name": "브이티",
+            "market": "KOSDAQ",
+            "close": 15730,
+            "changes_ratio": 7.3,
+            "volume": 315065,
+            "amount": 4792284350,
+            "marcap": 549635111740,
+            "ohlc": {
+                "open": 14210,
+                "high": 15880,
+                "low": 14210
+            },
+            "strength_score": 0.91,
+            "is_large_cap": false
+        },
+        {
+            "code": "085910",
+            "name": "네오티스",
+            "market": "KOSDAQ",
+            "close": 22050,
+            "changes_ratio": 7.3,
+            "volume": 271943,
+            "amount": 5731068850,
+            "marcap": 307262736900,
+            "ohlc": {
+                "open": 19910,
+                "high": 22200,
+                "low": 19430
+            },
+            "strength_score": 0.95,
+            "is_large_cap": false
+        },
+        {
+            "code": "115440",
+            "name": "우리넷",
+            "market": "KOSDAQ",
+            "close": 13790,
+            "changes_ratio": 7.23,
+            "volume": 16020477,
+            "amount": 234806496465,
+            "marcap": 148853286680,
+            "ohlc": {
+                "open": 12950,
+                "high": 16200,
+                "low": 11720
+            },
+            "strength_score": 0.46,
+            "is_large_cap": false
+        },
+        {
+            "code": "230240",
+            "name": "에치에프알",
+            "market": "KOSDAQ",
+            "close": 31550,
+            "changes_ratio": 7.13,
+            "volume": 345502,
+            "amount": 10379632250,
+            "marcap": 419898950000,
+            "ohlc": {
+                "open": 29000,
+                "high": 32000,
+                "low": 28100
+            },
+            "strength_score": 0.88,
+            "is_large_cap": false
+        },
+        {
+            "code": "059120",
+            "name": "아진엑스텍",
+            "market": "KOSDAQ",
+            "close": 8080,
+            "changes_ratio": 7.02,
+            "volume": 4112550,
+            "amount": 34993508910,
+            "marcap": 147945333280,
+            "ohlc": {
+                "open": 7360,
+                "high": 9390,
+                "low": 7000
+            },
+            "strength_score": 0.45,
+            "is_large_cap": false
+        },
+        {
+            "code": "127710",
+            "name": "아시아경제",
+            "market": "KOSDAQ",
+            "close": 1782,
+            "changes_ratio": 6.71,
+            "volume": 675507,
+            "amount": 1188370301,
+            "marcap": 78495692220,
+            "ohlc": {
+                "open": 1679,
+                "high": 1789,
+                "low": 1679
+            },
+            "strength_score": 0.94,
+            "is_large_cap": false
+        },
+        {
+            "code": "474610",
+            "name": "RF시스템즈",
+            "market": "KOSDAQ",
+            "close": 11360,
+            "changes_ratio": 6.67,
+            "volume": 2690329,
+            "amount": 29887223665,
+            "marcap": 162534881280,
+            "ohlc": {
+                "open": 10300,
+                "high": 11740,
+                "low": 10100
+            },
+            "strength_score": 0.77,
+            "is_large_cap": false
+        },
+        {
+            "code": "004540",
+            "name": "깨끗한나라",
+            "market": "KOSPI",
+            "close": 2115,
+            "changes_ratio": 6.66,
+            "volume": 7402549,
+            "amount": 16367687642,
+            "marcap": 78764065695,
+            "ohlc": {
+                "open": 1987,
+                "high": 2405,
+                "low": 1987
+            },
+            "strength_score": 0.31,
+            "is_large_cap": false
+        },
+        {
+            "code": "007460",
+            "name": "에이프로젠",
+            "market": "KOSPI",
+            "close": 337,
+            "changes_ratio": 6.65,
+            "volume": 7389162,
+            "amount": 2422926636,
+            "marcap": 110975795110,
+            "ohlc": {
+                "open": 315,
+                "high": 343,
+                "low": 305
+            },
+            "strength_score": 0.84,
+            "is_large_cap": false
+        },
+        {
+            "code": "389140",
+            "name": "포바이포",
+            "market": "KOSDAQ",
+            "close": 9150,
+            "changes_ratio": 6.64,
+            "volume": 1826840,
+            "amount": 17339311200,
+            "marcap": 130568075250,
+            "ohlc": {
+                "open": 8400,
+                "high": 10240,
+                "low": 8210
+            },
+            "strength_score": 0.46,
+            "is_large_cap": false
+        },
+        {
+            "code": "018250",
+            "name": "애경산업",
+            "market": "KOSPI",
+            "close": 15300,
+            "changes_ratio": 6.62,
+            "volume": 491882,
+            "amount": 7439261615,
+            "marcap": 404072005500,
+            "ohlc": {
+                "open": 15950,
+                "high": 15950,
+                "low": 14760
+            },
+            "strength_score": 0.45,
+            "is_large_cap": false
+        },
+        {
+            "code": "091970",
+            "name": "나노캠텍",
+            "market": "KOSDAQ",
+            "close": 720,
+            "changes_ratio": 6.51,
+            "volume": 495530,
+            "amount": 352329096,
+            "marcap": 27125210160,
+            "ohlc": {
+                "open": 676,
+                "high": 745,
+                "low": 663
+            },
+            "strength_score": 0.7,
+            "is_large_cap": false
+        },
+        {
+            "code": "321550",
+            "name": "티움바이오",
+            "market": "KOSDAQ",
+            "close": 12580,
+            "changes_ratio": 6.43,
+            "volume": 1048225,
+            "amount": 13293318675,
+            "marcap": 365805693320,
+            "ohlc": {
+                "open": 11890,
+                "high": 13480,
+                "low": 11510
+            },
+            "strength_score": 0.54,
+            "is_large_cap": false
+        },
+        {
+            "code": "175140",
+            "name": "휴먼테크놀로지",
+            "market": "KOSDAQ",
+            "close": 3975,
+            "changes_ratio": 6.43,
+            "volume": 245773,
+            "amount": 963314671,
+            "marcap": 99153405675,
+            "ohlc": {
+                "open": 3660,
+                "high": 4050,
+                "low": 3600
+            },
+            "strength_score": 0.83,
+            "is_large_cap": false
+        },
+        {
+            "code": "352910",
+            "name": "오비고",
+            "market": "KOSDAQ",
+            "close": 4690,
+            "changes_ratio": 6.35,
+            "volume": 73049,
+            "amount": 338579317,
+            "marcap": 59271291380,
+            "ohlc": {
+                "open": 4350,
+                "high": 4775,
+                "low": 4275
+            },
+            "strength_score": 0.83,
+            "is_large_cap": false
+        },
+        {
+            "code": "340360",
+            "name": "다보링크",
+            "market": "KOSDAQ",
+            "close": 1700,
+            "changes_ratio": 6.32,
+            "volume": 823979,
+            "amount": 1351402514,
+            "marcap": 86721945300,
+            "ohlc": {
+                "open": 1600,
+                "high": 1715,
+                "low": 1539
+            },
+            "strength_score": 0.91,
+            "is_large_cap": false
+        },
+        {
+            "code": "012205",
+            "name": "계양전기우",
+            "market": "KOSPI",
+            "close": 5400,
+            "changes_ratio": 6.3,
+            "volume": 10425,
+            "amount": 54767620,
+            "marcap": 6313026600,
+            "ohlc": {
+                "open": 5020,
+                "high": 5460,
+                "low": 5000
+            },
+            "strength_score": 0.87,
+            "is_large_cap": false
+        },
+        {
+            "code": "066830",
+            "name": "제노텍",
+            "market": "KONEX",
+            "close": 1488,
+            "changes_ratio": 6.29,
+            "volume": 312,
+            "amount": 467380,
+            "marcap": 8432763840,
+            "ohlc": {
+                "open": 1499,
+                "high": 1499,
+                "low": 1301
+            },
+            "strength_score": 0.94,
+            "is_large_cap": false
+        },
+        {
+            "code": "383310",
+            "name": "에코프로에이치엔",
+            "market": "KOSDAQ",
+            "close": 31100,
+            "changes_ratio": 6.14,
+            "volume": 476433,
+            "amount": 14735049550,
+            "marcap": 652320385200,
+            "ohlc": {
+                "open": 28600,
+                "high": 32900,
+                "low": 28100
+            },
+            "strength_score": 0.62,
+            "is_large_cap": false
+        },
+        {
+            "code": "383930",
+            "name": "디티앤씨알오",
+            "market": "KOSDAQ",
+            "close": 3290,
+            "changes_ratio": 6.13,
+            "volume": 279071,
+            "amount": 917626380,
+            "marcap": 42059781120,
+            "ohlc": {
+                "open": 3075,
+                "high": 3405,
+                "low": 3050
+            },
+            "strength_score": 0.68,
+            "is_large_cap": false
+        },
+        {
+            "code": "060230",
+            "name": "제이케이시냅스",
+            "market": "KOSDAQ",
+            "close": 520,
+            "changes_ratio": 6.12,
+            "volume": 1679648,
+            "amount": 887499345,
+            "marcap": 25374346400,
+            "ohlc": {
+                "open": 491,
+                "high": 585,
+                "low": 491
+            },
+            "strength_score": 0.31,
+            "is_large_cap": false
+        },
+        {
+            "code": "083470",
+            "name": "이엠앤아이",
+            "market": "KOSDAQ",
+            "close": 979,
+            "changes_ratio": 6.07,
+            "volume": 265304,
+            "amount": 255672697,
+            "marcap": 20892182091,
+            "ohlc": {
+                "open": 923,
+                "high": 1006,
+                "low": 919
+            },
+            "strength_score": 0.69,
+            "is_large_cap": false
+        },
+        {
+            "code": "253610",
+            "name": "루트락",
+            "market": "KONEX",
+            "close": 1039,
+            "changes_ratio": 6.02,
+            "volume": 1103,
+            "amount": 921808,
+            "marcap": 10658135769,
+            "ohlc": {
+                "open": 1120,
+                "high": 1120,
+                "low": 835
+            },
+            "strength_score": 0.72,
+            "is_large_cap": false
+        },
+        {
+            "code": "232530",
+            "name": "이엠티",
+            "market": "KONEX",
+            "close": 10500,
+            "changes_ratio": 5.95,
+            "volume": 24208,
+            "amount": 241706330,
+            "marcap": 268950192000,
+            "ohlc": {
+                "open": 10000,
+                "high": 10500,
+                "low": 9010
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "123750",
+            "name": "알톤",
+            "market": "KOSDAQ",
+            "close": 2500,
+            "changes_ratio": 5.93,
+            "volume": 310297,
+            "amount": 770362364,
+            "marcap": 34548147500,
+            "ohlc": {
+                "open": 2420,
+                "high": 2600,
+                "low": 2345
+            },
+            "strength_score": 0.61,
+            "is_large_cap": false
+        },
+        {
+            "code": "356680",
+            "name": "엑스게이트",
+            "market": "KOSDAQ",
+            "close": 7180,
+            "changes_ratio": 5.9,
+            "volume": 513302,
+            "amount": 3659493170,
+            "marcap": 204942272560,
+            "ohlc": {
+                "open": 6650,
+                "high": 7380,
+                "low": 6580
+            },
+            "strength_score": 0.75,
+            "is_large_cap": false
+        },
+        {
+            "code": "046390",
+            "name": "삼화네트웍스",
+            "market": "KOSDAQ",
+            "close": 988,
+            "changes_ratio": 5.89,
+            "volume": 484240,
+            "amount": 473102546,
+            "marcap": 42654857804,
+            "ohlc": {
+                "open": 937,
+                "high": 1002,
+                "low": 915
+            },
+            "strength_score": 0.84,
+            "is_large_cap": false
+        },
+        {
+            "code": "065770",
+            "name": "CS",
+            "market": "KOSDAQ",
+            "close": 935,
+            "changes_ratio": 5.89,
+            "volume": 1061132,
+            "amount": 972350316,
+            "marcap": 18149406550,
+            "ohlc": {
+                "open": 920,
+                "high": 980,
+                "low": 840
+            },
+            "strength_score": 0.68,
+            "is_large_cap": false
+        },
+        {
+            "code": "088290",
+            "name": "이원컴포텍",
+            "market": "KOSDAQ",
+            "close": 432,
+            "changes_ratio": 5.88,
+            "volume": 170882,
+            "amount": 71481304,
+            "marcap": 17228317248,
+            "ohlc": {
+                "open": 408,
+                "high": 432,
+                "low": 385
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "091440",
+            "name": "한울소재과학",
+            "market": "KOSDAQ",
+            "close": 3110,
+            "changes_ratio": 5.78,
+            "volume": 153777,
+            "amount": 474303401,
+            "marcap": 98217808790,
+            "ohlc": {
+                "open": 2915,
+                "high": 3175,
+                "low": 2885
+            },
+            "strength_score": 0.78,
+            "is_large_cap": false
+        },
+        {
+            "code": "228670",
+            "name": "레이",
+            "market": "KOSDAQ",
+            "close": 5500,
+            "changes_ratio": 5.77,
+            "volume": 68898,
+            "amount": 372127390,
+            "marcap": 85811275000,
+            "ohlc": {
+                "open": 5240,
+                "high": 5660,
+                "low": 5090
+            },
+            "strength_score": 0.72,
+            "is_large_cap": false
+        },
+        {
+            "code": "257370",
+            "name": "피엔티엠에스",
+            "market": "KOSDAQ",
+            "close": 3435,
+            "changes_ratio": 5.69,
+            "volume": 155428,
+            "amount": 532133007,
+            "marcap": 42954197535,
+            "ohlc": {
+                "open": 3245,
+                "high": 3550,
+                "low": 3020
+            },
+            "strength_score": 0.78,
+            "is_large_cap": false
+        },
+        {
+            "code": "425420",
+            "name": "티에프이",
+            "market": "KOSDAQ",
+            "close": 69000,
+            "changes_ratio": 5.67,
+            "volume": 300545,
+            "amount": 19623076600,
+            "marcap": 825288990000,
+            "ohlc": {
+                "open": 61100,
+                "high": 69500,
+                "low": 60500
+            },
+            "strength_score": 0.94,
+            "is_large_cap": false
+        },
+        {
+            "code": "005090",
+            "name": "SGC에너지",
+            "market": "KOSPI",
+            "close": 66500,
+            "changes_ratio": 5.56,
+            "volume": 147147,
+            "amount": 9650247300,
+            "marcap": 958220644500,
+            "ohlc": {
+                "open": 62600,
+                "high": 68000,
+                "low": 61800
+            },
+            "strength_score": 0.76,
+            "is_large_cap": false
+        },
+        {
+            "code": "233990",
+            "name": "질경이",
+            "market": "KONEX",
+            "close": 1997,
+            "changes_ratio": 5.55,
+            "volume": 4,
+            "amount": 8161,
+            "marcap": 29485501306,
+            "ohlc": {
+                "open": 2170,
+                "high": 2170,
+                "low": 1997
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "417500",
+            "name": "제이아이테크",
+            "market": "KOSDAQ",
+            "close": 4875,
+            "changes_ratio": 5.52,
+            "volume": 930184,
+            "amount": 4363918137,
+            "marcap": 159825627000,
+            "ohlc": {
+                "open": 4505,
+                "high": 4875,
+                "low": 4455
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "021880",
+            "name": "메이슨캐피탈",
+            "market": "KOSDAQ",
+            "close": 211,
+            "changes_ratio": 5.5,
+            "volume": 564049,
+            "amount": 117187423,
+            "marcap": 44770910088,
+            "ohlc": {
+                "open": 200,
+                "high": 215,
+                "low": 199
+            },
+            "strength_score": 0.75,
+            "is_large_cap": false
+        },
+        {
+            "code": "000215",
+            "name": "DL우",
+            "market": "KOSPI",
+            "close": 28000,
+            "changes_ratio": 5.46,
+            "volume": 19604,
+            "amount": 539545025,
+            "marcap": 47211220000,
+            "ohlc": {
+                "open": 26600,
+                "high": 28250,
+                "low": 26400
+            },
+            "strength_score": 0.86,
+            "is_large_cap": false
+        },
+        {
+            "code": "331740",
+            "name": "아우토크립트",
+            "market": "KOSDAQ",
+            "close": 16470,
+            "changes_ratio": 5.44,
+            "volume": 98652,
+            "amount": 1581710850,
+            "marcap": 160063546770,
+            "ohlc": {
+                "open": 15390,
+                "high": 16610,
+                "low": 15000
+            },
+            "strength_score": 0.91,
+            "is_large_cap": false
+        },
+        {
+            "code": "180400",
+            "name": "DXVX",
+            "market": "KOSDAQ",
+            "close": 4705,
+            "changes_ratio": 5.38,
+            "volume": 318223,
+            "amount": 1452546224,
+            "marcap": 463110477560,
+            "ohlc": {
+                "open": 4380,
+                "high": 4865,
+                "low": 4260
+            },
+            "strength_score": 0.74,
+            "is_large_cap": false
+        },
+        {
+            "code": "094170",
+            "name": "동운아나텍",
+            "market": "KOSDAQ",
+            "close": 30650,
+            "changes_ratio": 5.33,
+            "volume": 206637,
+            "amount": 6169977700,
+            "marcap": 640889538400,
+            "ohlc": {
+                "open": 29000,
+                "high": 30800,
+                "low": 28250
+            },
+            "strength_score": 0.94,
+            "is_large_cap": false
+        },
+        {
+            "code": "417840",
+            "name": "저스템",
+            "market": "KOSDAQ",
+            "close": 6930,
+            "changes_ratio": 5.32,
+            "volume": 1056715,
+            "amount": 6993408845,
+            "marcap": 156434916330,
+            "ohlc": {
+                "open": 6400,
+                "high": 6990,
+                "low": 6170
+            },
+            "strength_score": 0.93,
+            "is_large_cap": false
+        },
+        {
+            "code": "044480",
+            "name": "빌리언스",
+            "market": "KOSDAQ",
+            "close": 321,
+            "changes_ratio": 5.25,
+            "volume": 3436924,
+            "amount": 1092582921,
+            "marcap": 25893056688,
+            "ohlc": {
+                "open": 308,
+                "high": 329,
+                "low": 300
+            },
+            "strength_score": 0.72,
+            "is_large_cap": false
+        },
+        {
+            "code": "021080",
+            "name": "에이티넘인베스트",
+            "market": "KOSDAQ",
+            "close": 3110,
+            "changes_ratio": 5.25,
+            "volume": 424642,
+            "amount": 1286093275,
+            "marcap": 149280000000,
+            "ohlc": {
+                "open": 2950,
+                "high": 3145,
+                "low": 2860
+            },
+            "strength_score": 0.88,
+            "is_large_cap": false
+        },
+        {
+            "code": "064290",
+            "name": "인텍플러스",
+            "market": "KOSDAQ",
+            "close": 19070,
+            "changes_ratio": 5.24,
+            "volume": 399933,
+            "amount": 7334974530,
+            "marcap": 245315755340,
+            "ohlc": {
+                "open": 17530,
+                "high": 19150,
+                "low": 17200
+            },
+            "strength_score": 0.96,
+            "is_large_cap": false
+        },
+        {
+            "code": "115530",
+            "name": "씨엔플러스",
+            "market": "KOSDAQ",
+            "close": 302,
+            "changes_ratio": 5.23,
+            "volume": 4106056,
+            "amount": 1287827690,
+            "marcap": 21891341572,
+            "ohlc": {
+                "open": 287,
+                "high": 340,
+                "low": 273
+            },
+            "strength_score": 0.43,
+            "is_large_cap": false
+        },
+        {
+            "code": "260970",
+            "name": "에스앤디",
+            "market": "KOSDAQ",
+            "close": 56300,
+            "changes_ratio": 5.23,
+            "volume": 25738,
+            "amount": 1421299950,
+            "marcap": 162862050200,
+            "ohlc": {
+                "open": 52500,
+                "high": 56300,
+                "low": 52500
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "204620",
+            "name": "글로벌텍스프리",
+            "market": "KOSDAQ",
+            "close": 5060,
+            "changes_ratio": 5.2,
+            "volume": 1877607,
+            "amount": 9384747722,
+            "marcap": 355633649800,
+            "ohlc": {
+                "open": 4650,
+                "high": 5140,
+                "low": 4645
+            },
+            "strength_score": 0.84,
+            "is_large_cap": false
+        },
+        {
+            "code": "368600",
+            "name": "아이씨에이치",
+            "market": "KOSDAQ",
+            "close": 892,
+            "changes_ratio": 5.19,
+            "volume": 129442,
+            "amount": 113940741,
+            "marcap": 22780204632,
+            "ohlc": {
+                "open": 848,
+                "high": 915,
+                "low": 832
+            },
+            "strength_score": 0.72,
+            "is_large_cap": false
+        },
+        {
+            "code": "090150",
+            "name": "아이윈",
+            "market": "KOSDAQ",
+            "close": 816,
+            "changes_ratio": 5.15,
+            "volume": 216140,
+            "amount": 174691828,
+            "marcap": 34170239088,
+            "ohlc": {
+                "open": 776,
+                "high": 853,
+                "low": 769
+            },
+            "strength_score": 0.56,
+            "is_large_cap": false
+        },
+        {
+            "code": "260930",
+            "name": "씨티케이",
+            "market": "KOSDAQ",
+            "close": 4595,
+            "changes_ratio": 5.15,
+            "volume": 4013804,
+            "amount": 19731347458,
+            "marcap": 88874610645,
+            "ohlc": {
+                "open": 4520,
+                "high": 5410,
+                "low": 4420
+            },
+            "strength_score": 0.18,
+            "is_large_cap": false
+        },
+        {
+            "code": "073540",
+            "name": "에프알텍",
+            "market": "KOSDAQ",
+            "close": 2660,
+            "changes_ratio": 5.14,
+            "volume": 693924,
+            "amount": 1860848153,
+            "marcap": 30324000000,
+            "ohlc": {
+                "open": 2515,
+                "high": 2895,
+                "low": 2405
+            },
+            "strength_score": 0.52,
+            "is_large_cap": false
+        },
+        {
+            "code": "291810",
+            "name": "핀텔",
+            "market": "KOSDAQ",
+            "close": 2100,
+            "changes_ratio": 5.11,
+            "volume": 55403,
+            "amount": 113762048,
+            "marcap": 23874295200,
+            "ohlc": {
+                "open": 1998,
+                "high": 2125,
+                "low": 1930
+            },
+            "strength_score": 0.87,
+            "is_large_cap": false
+        },
+        {
+            "code": "455180",
+            "name": "케이지에이",
+            "market": "KOSDAQ",
+            "close": 2995,
+            "changes_ratio": 5.09,
+            "volume": 107369,
+            "amount": 310308235,
+            "marcap": 41805156420,
+            "ohlc": {
+                "open": 2865,
+                "high": 3060,
+                "low": 2750
+            },
+            "strength_score": 0.79,
+            "is_large_cap": false
+        },
+        {
+            "code": "002025",
+            "name": "코오롱우",
+            "market": "KOSPI",
+            "close": 30000,
+            "changes_ratio": 5.08,
+            "volume": 12234,
+            "amount": 356475550,
+            "marcap": 34813110000,
+            "ohlc": {
+                "open": 28450,
+                "high": 30100,
+                "low": 27850
+            },
+            "strength_score": 0.96,
+            "is_large_cap": false
+        },
+        {
+            "code": "065440",
+            "name": "이루온",
+            "market": "KOSDAQ",
+            "close": 2490,
+            "changes_ratio": 5.06,
+            "volume": 1925501,
+            "amount": 4699741374,
+            "marcap": 67914799800,
+            "ohlc": {
+                "open": 2300,
+                "high": 2530,
+                "low": 2290
+            },
+            "strength_score": 0.83,
+            "is_large_cap": false
+        },
+        {
+            "code": "215790",
+            "name": "이노인스트루먼트",
+            "market": "KOSDAQ",
+            "close": 895,
+            "changes_ratio": 5.05,
+            "volume": 57481380,
+            "amount": 54903049535,
+            "marcap": 36053418355,
+            "ohlc": {
+                "open": 876,
+                "high": 1107,
+                "low": 711
+            },
+            "strength_score": 0.46,
+            "is_large_cap": false
+        },
+        {
+            "code": "388870",
+            "name": "파로스아이바이오",
+            "market": "KOSDAQ",
+            "close": 10410,
+            "changes_ratio": 5.05,
+            "volume": 379273,
+            "amount": 3918212625,
+            "marcap": 134767152120,
+            "ohlc": {
+                "open": 9730,
+                "high": 10660,
+                "low": 9730
+            },
+            "strength_score": 0.73,
+            "is_large_cap": false
+        },
+        {
+            "code": "354320",
+            "name": "알멕",
+            "market": "KOSDAQ",
+            "close": 46450,
+            "changes_ratio": -5.01,
+            "volume": 124504,
+            "amount": 5742301275,
+            "marcap": 296879647450,
+            "ohlc": {
+                "open": 47500,
+                "high": 47900,
+                "low": 44500
+            },
+            "strength_score": 0.57,
+            "is_large_cap": false
+        },
+        {
+            "code": "318060",
+            "name": "그래피",
+            "market": "KOSDAQ",
+            "close": 46150,
+            "changes_ratio": -5.04,
+            "volume": 186617,
+            "amount": 8649092775,
+            "marcap": 513546908550,
+            "ohlc": {
+                "open": 47950,
+                "high": 47950,
+                "low": 45000
+            },
+            "strength_score": 0.39,
+            "is_large_cap": false
+        },
+        {
+            "code": "469750",
+            "name": "아이비젼웍스",
+            "market": "KOSDAQ",
+            "close": 1073,
+            "changes_ratio": -5.04,
+            "volume": 147806,
+            "amount": 162232718,
+            "marcap": 36971804113,
+            "ohlc": {
+                "open": 1120,
+                "high": 1125,
+                "low": 1073
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "214430",
+            "name": "아이쓰리시스템",
+            "market": "KOSDAQ",
+            "close": 93300,
+            "changes_ratio": -5.09,
+            "volume": 41118,
+            "amount": 3783052400,
+            "marcap": 681763159500,
+            "ohlc": {
+                "open": 93500,
+                "high": 94800,
+                "low": 90300
+            },
+            "strength_score": 0.67,
+            "is_large_cap": false
+        },
+        {
+            "code": "211270",
+            "name": "AP위성",
+            "market": "KOSDAQ",
+            "close": 17670,
+            "changes_ratio": -5.1,
+            "volume": 458078,
+            "amount": 8100292300,
+            "marcap": 266504311680,
+            "ohlc": {
+                "open": 18210,
+                "high": 18300,
+                "low": 17190
+            },
+            "strength_score": 0.43,
+            "is_large_cap": false
+        },
+        {
+            "code": "024060",
+            "name": "흥구석유",
+            "market": "KOSDAQ",
+            "close": 19930,
+            "changes_ratio": -5.1,
+            "volume": 5879114,
+            "amount": 123873476265,
+            "marcap": 298950000000,
+            "ohlc": {
+                "open": 21850,
+                "high": 22950,
+                "low": 19610
+            },
+            "strength_score": 0.1,
+            "is_large_cap": false
+        },
+        {
+            "code": "348370",
+            "name": "엔켐",
+            "market": "KOSDAQ",
+            "close": 42700,
+            "changes_ratio": -5.11,
+            "volume": 669080,
+            "amount": 27946813675,
+            "marcap": 935599358400,
+            "ohlc": {
+                "open": 42200,
+                "high": 43750,
+                "low": 40050
+            },
+            "strength_score": 0.72,
+            "is_large_cap": false
+        },
+        {
+            "code": "191600",
+            "name": "블루탑",
+            "market": "KONEX",
+            "close": 6490,
+            "changes_ratio": -5.12,
+            "volume": 728,
+            "amount": 4268080,
+            "marcap": 18554442720,
+            "ohlc": {
+                "open": 6940,
+                "high": 6940,
+                "low": 5820
+            },
+            "strength_score": 0.6,
+            "is_large_cap": false
+        },
+        {
+            "code": "004090",
+            "name": "한국석유",
+            "market": "KOSPI",
+            "close": 16730,
+            "changes_ratio": -5.16,
+            "volume": 907718,
+            "amount": 15655615570,
+            "marcap": 212372627600,
+            "ohlc": {
+                "open": 18040,
+                "high": 18190,
+                "low": 16580
+            },
+            "strength_score": 0.09,
+            "is_large_cap": false
+        },
+        {
+            "code": "242040",
+            "name": "나무기술",
+            "market": "KOSDAQ",
+            "close": 6170,
+            "changes_ratio": -5.22,
+            "volume": 1622770,
+            "amount": 9893004555,
+            "marcap": 213520648880,
+            "ohlc": {
+                "open": 6350,
+                "high": 6360,
+                "low": 5900
+            },
+            "strength_score": 0.59,
+            "is_large_cap": false
+        },
+        {
+            "code": "340930",
+            "name": "유일에너테크",
+            "market": "KOSDAQ",
+            "close": 865,
+            "changes_ratio": -5.26,
+            "volume": 1751674,
+            "amount": 1508631815,
+            "marcap": 59577554025,
+            "ohlc": {
+                "open": 913,
+                "high": 913,
+                "low": 840
+            },
+            "strength_score": 0.34,
+            "is_large_cap": false
+        },
+        {
+            "code": "117580",
+            "name": "대성에너지",
+            "market": "KOSPI",
+            "close": 9830,
+            "changes_ratio": -5.3,
+            "volume": 1184508,
+            "amount": 11725997675,
+            "marcap": 270325000000,
+            "ohlc": {
+                "open": 10550,
+                "high": 10680,
+                "low": 9600
+            },
+            "strength_score": 0.21,
+            "is_large_cap": false
+        },
+        {
+            "code": "047400",
+            "name": "유니온머티리얼",
+            "market": "KOSPI",
+            "close": 1622,
+            "changes_ratio": -5.37,
+            "volume": 1124902,
+            "amount": 1837181715,
+            "marcap": 68124000000,
+            "ohlc": {
+                "open": 1714,
+                "high": 1714,
+                "low": 1590
+            },
+            "strength_score": 0.26,
+            "is_large_cap": false
+        },
+        {
+            "code": "480370",
+            "name": "씨케이솔루션",
+            "market": "KOSPI",
+            "close": 2275,
+            "changes_ratio": -5.41,
+            "volume": 718708,
+            "amount": 1612324327,
+            "marcap": 73895203200,
+            "ohlc": {
+                "open": 2285,
+                "high": 2305,
+                "low": 2185
+            },
+            "strength_score": 0.75,
+            "is_large_cap": false
+        },
+        {
+            "code": "452280",
+            "name": "한선엔지니어링",
+            "market": "KOSDAQ",
+            "close": 13620,
+            "changes_ratio": -5.42,
+            "volume": 187072,
+            "amount": 2530728280,
+            "marcap": 262136240400,
+            "ohlc": {
+                "open": 14390,
+                "high": 14390,
+                "low": 13170
+            },
+            "strength_score": 0.37,
+            "is_large_cap": false
+        },
+        {
+            "code": "108860",
+            "name": "셀바스AI",
+            "market": "KOSDAQ",
+            "close": 15840,
+            "changes_ratio": -5.43,
+            "volume": 7689539,
+            "amount": 122214320440,
+            "marcap": 426330273600,
+            "ohlc": {
+                "open": 16000,
+                "high": 16940,
+                "low": 14920
+            },
+            "strength_score": 0.46,
+            "is_large_cap": false
+        },
+        {
+            "code": "061040",
+            "name": "알에프텍",
+            "market": "KOSDAQ",
+            "close": 1685,
+            "changes_ratio": -5.5,
+            "volume": 292191,
+            "amount": 496476615,
+            "marcap": 54070401415,
+            "ohlc": {
+                "open": 1828,
+                "high": 1828,
+                "low": 1670
+            },
+            "strength_score": 0.09,
+            "is_large_cap": false
+        },
+        {
+            "code": "460870",
+            "name": "에스엠씨지",
+            "market": "KOSDAQ",
+            "close": 3840,
+            "changes_ratio": -5.54,
+            "volume": 425534,
+            "amount": 1643352097,
+            "marcap": 77081487360,
+            "ohlc": {
+                "open": 4035,
+                "high": 4035,
+                "low": 3750
+            },
+            "strength_score": 0.32,
+            "is_large_cap": false
+        },
+        {
+            "code": "101400",
+            "name": "엔시트론",
+            "market": "KOSDAQ",
+            "close": 405,
+            "changes_ratio": -5.59,
+            "volume": 478922,
+            "amount": 197599380,
+            "marcap": 28532545650,
+            "ohlc": {
+                "open": 428,
+                "high": 429,
+                "low": 398
+            },
+            "strength_score": 0.23,
+            "is_large_cap": false
+        },
+        {
+            "code": "080520",
+            "name": "오디텍",
+            "market": "KOSDAQ",
+            "close": 3635,
+            "changes_ratio": -5.71,
+            "volume": 396125,
+            "amount": 1479327417,
+            "marcap": 41156985795,
+            "ohlc": {
+                "open": 3855,
+                "high": 3980,
+                "low": 3510
+            },
+            "strength_score": 0.27,
+            "is_large_cap": false
+        },
+        {
+            "code": "002420",
+            "name": "세기상사",
+            "market": "KOSPI",
+            "close": 5360,
+            "changes_ratio": -5.8,
+            "volume": 58573,
+            "amount": 318131370,
+            "marcap": 31998921280,
+            "ohlc": {
+                "open": 5660,
+                "high": 5660,
+                "low": 5270
+            },
+            "strength_score": 0.23,
+            "is_large_cap": false
+        },
+        {
+            "code": "900290",
+            "name": "GRT",
+            "market": "KOSDAQ",
+            "close": 5430,
+            "changes_ratio": -5.89,
+            "volume": 378529,
+            "amount": 2064810355,
+            "marcap": 439015500000,
+            "ohlc": {
+                "open": 5770,
+                "high": 5770,
+                "low": 5360
+            },
+            "strength_score": 0.17,
+            "is_large_cap": false
+        },
+        {
+            "code": "084850",
+            "name": "아이티엠반도체",
+            "market": "KOSDAQ GLOBAL",
+            "close": 12470,
+            "changes_ratio": -5.89,
+            "volume": 388603,
+            "amount": 4570060310,
+            "marcap": 282856186980,
+            "ohlc": {
+                "open": 12220,
+                "high": 12470,
+                "low": 11310
+            },
+            "strength_score": 1.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "189350",
+            "name": "코셋",
+            "market": "KONEX",
+            "close": 1315,
+            "changes_ratio": -6.0,
+            "volume": 19612,
+            "amount": 27351267,
+            "marcap": 6312000000,
+            "ohlc": {
+                "open": 1390,
+                "high": 1497,
+                "low": 1315
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "001550",
+            "name": "조비",
+            "market": "KOSPI",
+            "close": 15050,
+            "changes_ratio": -6.0,
+            "volume": 299962,
+            "amount": 4628720320,
+            "marcap": 78143196950,
+            "ohlc": {
+                "open": 16620,
+                "high": 16620,
+                "low": 14960
+            },
+            "strength_score": 0.05,
+            "is_large_cap": false
+        },
+        {
+            "code": "357880",
+            "name": "SKAI",
+            "market": "KOSDAQ",
+            "close": 3890,
+            "changes_ratio": -6.04,
+            "volume": 2054844,
+            "amount": 8001882414,
+            "marcap": 195336645640,
+            "ohlc": {
+                "open": 3995,
+                "high": 4090,
+                "low": 3795
+            },
+            "strength_score": 0.32,
+            "is_large_cap": false
+        },
+        {
+            "code": "250930",
+            "name": "예선테크",
+            "market": "KOSDAQ",
+            "close": 419,
+            "changes_ratio": -6.26,
+            "volume": 893542,
+            "amount": 374773745,
+            "marcap": 13827184360,
+            "ohlc": {
+                "open": 446,
+                "high": 446,
+                "low": 408
+            },
+            "strength_score": 0.29,
+            "is_large_cap": false
+        },
+        {
+            "code": "340810",
+            "name": "시선AI",
+            "market": "KOSDAQ",
+            "close": 2575,
+            "changes_ratio": -6.36,
+            "volume": 85913,
+            "amount": 223603031,
+            "marcap": 33361911150,
+            "ohlc": {
+                "open": 2650,
+                "high": 2705,
+                "low": 2550
+            },
+            "strength_score": 0.16,
+            "is_large_cap": false
+        },
+        {
+            "code": "321370",
+            "name": "센서뷰",
+            "market": "KOSDAQ",
+            "close": 3295,
+            "changes_ratio": -6.39,
+            "volume": 3743657,
+            "amount": 12321180125,
+            "marcap": 170184430320,
+            "ohlc": {
+                "open": 3300,
+                "high": 3480,
+                "low": 3070
+            },
+            "strength_score": 0.55,
+            "is_large_cap": false
+        },
+        {
+            "code": "048830",
+            "name": "엔피케이",
+            "market": "KOSDAQ",
+            "close": 1000,
+            "changes_ratio": -6.45,
+            "volume": 1003223,
+            "amount": 1032606433,
+            "marcap": 18723923000,
+            "ohlc": {
+                "open": 1112,
+                "high": 1150,
+                "low": 984
+            },
+            "strength_score": 0.1,
+            "is_large_cap": false
+        },
+        {
+            "code": "432320",
+            "name": "KB스타리츠",
+            "market": "KOSPI",
+            "close": 2360,
+            "changes_ratio": -6.53,
+            "volume": 821424,
+            "amount": 1963690016,
+            "marcap": 239337712600,
+            "ohlc": {
+                "open": 2505,
+                "high": 2520,
+                "low": 2350
+            },
+            "strength_score": 0.06,
+            "is_large_cap": false
+        },
+        {
+            "code": "187790",
+            "name": "나노",
+            "market": "KOSDAQ",
+            "close": 3690,
+            "changes_ratio": -6.58,
+            "volume": 722335,
+            "amount": 2613252440,
+            "marcap": 113802662700,
+            "ohlc": {
+                "open": 3950,
+                "high": 3950,
+                "low": 3450
+            },
+            "strength_score": 0.48,
+            "is_large_cap": false
+        },
+        {
+            "code": "009580",
+            "name": "무림P&P",
+            "market": "KOSPI",
+            "close": 2805,
+            "changes_ratio": -6.66,
+            "volume": 2747972,
+            "amount": 8104866721,
+            "marcap": 174943148820,
+            "ohlc": {
+                "open": 3020,
+                "high": 3150,
+                "low": 2795
+            },
+            "strength_score": 0.03,
+            "is_large_cap": false
+        },
+        {
+            "code": "203400",
+            "name": "에이비온",
+            "market": "KOSDAQ",
+            "close": 2575,
+            "changes_ratio": -6.7,
+            "volume": 1076031,
+            "amount": 2806825033,
+            "marcap": 232010857800,
+            "ohlc": {
+                "open": 2685,
+                "high": 2775,
+                "low": 2545
+            },
+            "strength_score": 0.13,
+            "is_large_cap": false
+        },
+        {
+            "code": "0001A0",
+            "name": "덕양에너젠",
+            "market": "KOSDAQ",
+            "close": 17940,
+            "changes_ratio": -6.76,
+            "volume": 462548,
+            "amount": 8397087640,
+            "marcap": 444754038300,
+            "ohlc": {
+                "open": 19320,
+                "high": 19330,
+                "low": 17610
+            },
+            "strength_score": 0.19,
+            "is_large_cap": false
+        },
+        {
+            "code": "000440",
+            "name": "중앙에너비스",
+            "market": "KOSDAQ",
+            "close": 23400,
+            "changes_ratio": -6.77,
+            "volume": 259979,
+            "amount": 6218899650,
+            "marcap": 145714842000,
+            "ohlc": {
+                "open": 25300,
+                "high": 25800,
+                "low": 22950
+            },
+            "strength_score": 0.16,
+            "is_large_cap": false
+        },
+        {
+            "code": "219550",
+            "name": "디와이디",
+            "market": "KOSDAQ",
+            "close": 1680,
+            "changes_ratio": -6.82,
+            "volume": 194101,
+            "amount": 324260958,
+            "marcap": 63370409760,
+            "ohlc": {
+                "open": 1776,
+                "high": 1776,
+                "low": 1579
+            },
+            "strength_score": 0.51,
+            "is_large_cap": false
+        },
+        {
+            "code": "330860",
+            "name": "네패스아크",
+            "market": "KOSDAQ",
+            "close": 25250,
+            "changes_ratio": -6.83,
+            "volume": 409557,
+            "amount": 10366068500,
+            "marcap": 307647136250,
+            "ohlc": {
+                "open": 26100,
+                "high": 26550,
+                "low": 24550
+            },
+            "strength_score": 0.35,
+            "is_large_cap": false
+        },
+        {
+            "code": "194480",
+            "name": "데브시스터즈",
+            "market": "KOSDAQ",
+            "close": 32600,
+            "changes_ratio": -6.86,
+            "volume": 453379,
+            "amount": 15128796475,
+            "marcap": 395410290000,
+            "ohlc": {
+                "open": 36000,
+                "high": 36300,
+                "low": 31950
+            },
+            "strength_score": 0.15,
+            "is_large_cap": false
+        },
+        {
+            "code": "104200",
+            "name": "NHN벅스",
+            "market": "KOSDAQ",
+            "close": 4405,
+            "changes_ratio": -6.97,
+            "volume": 543753,
+            "amount": 2276842351,
+            "marcap": 65315357750,
+            "ohlc": {
+                "open": 4540,
+                "high": 4540,
+                "low": 3975
+            },
+            "strength_score": 0.76,
+            "is_large_cap": false
+        },
+        {
+            "code": "223220",
+            "name": "로지스몬",
+            "market": "KONEX",
+            "close": 3200,
+            "changes_ratio": -7.11,
+            "volume": 1463,
+            "amount": 4941055,
+            "marcap": 13097286400,
+            "ohlc": {
+                "open": 3960,
+                "high": 3960,
+                "low": 3195
+            },
+            "strength_score": 0.01,
+            "is_large_cap": false
+        },
+        {
+            "code": "447690",
+            "name": "아이오바이오",
+            "market": "KONEX",
+            "close": 3385,
+            "changes_ratio": -7.13,
+            "volume": 5889,
+            "amount": 22991160,
+            "marcap": 8903416560,
+            "ohlc": {
+                "open": 3495,
+                "high": 4125,
+                "low": 3300
+            },
+            "strength_score": 0.1,
+            "is_large_cap": false
+        },
+        {
+            "code": "007575",
+            "name": "일양약품우",
+            "market": "KOSPI",
+            "close": 12480,
+            "changes_ratio": -7.28,
+            "volume": 2770,
+            "amount": 34816030,
+            "marcap": 5554598400,
+            "ohlc": {
+                "open": 13050,
+                "high": 13050,
+                "low": 12470
+            },
+            "strength_score": 0.02,
+            "is_large_cap": false
+        },
+        {
+            "code": "051780",
+            "name": "큐로홀딩스",
+            "market": "KOSDAQ",
+            "close": 684,
+            "changes_ratio": -7.32,
+            "volume": 780567,
+            "amount": 545061252,
+            "marcap": 17654891580,
+            "ohlc": {
+                "open": 738,
+                "high": 774,
+                "low": 660
+            },
+            "strength_score": 0.21,
+            "is_large_cap": false
+        },
+        {
+            "code": "131030",
+            "name": "옵투스제약",
+            "market": "KOSDAQ",
+            "close": 17000,
+            "changes_ratio": -7.46,
+            "volume": 483599,
+            "amount": 8420202905,
+            "marcap": 299992030000,
+            "ohlc": {
+                "open": 18400,
+                "high": 18400,
+                "low": 16750
+            },
+            "strength_score": 0.15,
+            "is_large_cap": false
+        },
+        {
+            "code": "014160",
+            "name": "대영포장",
+            "market": "KOSPI",
+            "close": 1300,
+            "changes_ratio": -7.74,
+            "volume": 104786587,
+            "amount": 156534024773,
+            "marcap": 140912913700,
+            "ohlc": {
+                "open": 1520,
+                "high": 1637,
+                "low": 1286
+            },
+            "strength_score": 0.04,
+            "is_large_cap": false
+        },
+        {
+            "code": "058450",
+            "name": "한주에이알티",
+            "market": "KOSDAQ",
+            "close": 660,
+            "changes_ratio": -7.95,
+            "volume": 244731,
+            "amount": 162723558,
+            "marcap": 13235302080,
+            "ohlc": {
+                "open": 717,
+                "high": 745,
+                "low": 624
+            },
+            "strength_score": 0.3,
+            "is_large_cap": false
+        },
+        {
+            "code": "226590",
+            "name": "엠디바이스",
+            "market": "KOSDAQ",
+            "close": 27200,
+            "changes_ratio": -7.95,
+            "volume": 513136,
+            "amount": 14161182525,
+            "marcap": 289157324800,
+            "ohlc": {
+                "open": 28950,
+                "high": 29400,
+                "low": 26900
+            },
+            "strength_score": 0.12,
+            "is_large_cap": false
+        },
+        {
+            "code": "003280",
+            "name": "흥아해운",
+            "market": "KOSPI",
+            "close": 2950,
+            "changes_ratio": -7.96,
+            "volume": 32473318,
+            "amount": 100979807609,
+            "marcap": 709253452050,
+            "ohlc": {
+                "open": 3205,
+                "high": 3350,
+                "low": 2920
+            },
+            "strength_score": 0.07,
+            "is_large_cap": false
+        },
+        {
+            "code": "187660",
+            "name": "페니트리움바이오",
+            "market": "KOSDAQ",
+            "close": 11270,
+            "changes_ratio": -8.08,
+            "volume": 2950378,
+            "amount": 34014431365,
+            "marcap": 625104671310,
+            "ohlc": {
+                "open": 11740,
+                "high": 12200,
+                "low": 11200
+            },
+            "strength_score": 0.07,
+            "is_large_cap": false
+        },
+        {
+            "code": "346010",
+            "name": "타이드",
+            "market": "KONEX",
+            "close": 1100,
+            "changes_ratio": -8.26,
+            "volume": 32,
+            "amount": 35599,
+            "marcap": 5346068200,
+            "ohlc": {
+                "open": 1200,
+                "high": 1299,
+                "low": 1020
+            },
+            "strength_score": 0.29,
+            "is_large_cap": false
+        },
+        {
+            "code": "060900",
+            "name": "에이전트AI",
+            "market": "KOSDAQ",
+            "close": 308,
+            "changes_ratio": -8.61,
+            "volume": 3038242,
+            "amount": 951019758,
+            "marcap": 24585012144,
+            "ohlc": {
+                "open": 324,
+                "high": 338,
+                "low": 303
+            },
+            "strength_score": 0.14,
+            "is_large_cap": false
+        },
+        {
+            "code": "071950",
+            "name": "코아스",
+            "market": "KOSPI",
+            "close": 1726,
+            "changes_ratio": -9.16,
+            "volume": 210771,
+            "amount": 374388039,
+            "marcap": 20574622482,
+            "ohlc": {
+                "open": 1905,
+                "high": 1994,
+                "low": 1684
+            },
+            "strength_score": 0.14,
+            "is_large_cap": false
+        },
+        {
+            "code": "322780",
+            "name": "코퍼스코리아",
+            "market": "KOSDAQ",
+            "close": 383,
+            "changes_ratio": -9.46,
+            "volume": 6352180,
+            "amount": 2493319942,
+            "marcap": 17104008638,
+            "ohlc": {
+                "open": 393,
+                "high": 429,
+                "low": 363
+            },
+            "strength_score": 0.3,
+            "is_large_cap": false
+        },
+        {
+            "code": "050760",
+            "name": "에스폴리텍",
+            "market": "KOSDAQ",
+            "close": 1475,
+            "changes_ratio": -9.73,
+            "volume": 12009994,
+            "amount": 23391567996,
+            "marcap": 24093650050,
+            "ohlc": {
+                "open": 1797,
+                "high": 2120,
+                "low": 1457
+            },
+            "strength_score": 0.03,
+            "is_large_cap": false
+        },
+        {
+            "code": "001515",
+            "name": "SK증권우",
+            "market": "KOSPI",
+            "close": 5480,
+            "changes_ratio": -10.02,
+            "volume": 2157961,
+            "amount": 12111822035,
+            "marcap": 21440576720,
+            "ohlc": {
+                "open": 5700,
+                "high": 6120,
+                "low": 5320
+            },
+            "strength_score": 0.2,
+            "is_large_cap": false
+        },
+        {
+            "code": "014970",
+            "name": "삼륭물산",
+            "market": "KOSDAQ",
+            "close": 9390,
+            "changes_ratio": -10.06,
+            "volume": 509371,
+            "amount": 4786807260,
+            "marcap": 142023750000,
+            "ohlc": {
+                "open": 10490,
+                "high": 10490,
+                "low": 9070
+            },
+            "strength_score": 0.23,
+            "is_large_cap": false
+        },
+        {
+            "code": "486990",
+            "name": "노타",
+            "market": "KOSDAQ",
+            "close": 39550,
+            "changes_ratio": -10.22,
+            "volume": 636103,
+            "amount": 25517051775,
+            "marcap": 844243396500,
+            "ohlc": {
+                "open": 42050,
+                "high": 42200,
+                "low": 39350
+            },
+            "strength_score": 0.07,
+            "is_large_cap": false
+        },
+        {
+            "code": "224060",
+            "name": "더코디",
+            "market": "KOSDAQ",
+            "close": 5300,
+            "changes_ratio": -10.32,
+            "volume": 168600,
+            "amount": 943229240,
+            "marcap": 27351826600,
+            "ohlc": {
+                "open": 5930,
+                "high": 6000,
+                "low": 5170
+            },
+            "strength_score": 0.16,
+            "is_large_cap": false
+        },
+        {
+            "code": "037230",
+            "name": "한국팩키지",
+            "market": "KOSDAQ",
+            "close": 2625,
+            "changes_ratio": -10.56,
+            "volume": 19374023,
+            "amount": 61599775956,
+            "marcap": 78225858375,
+            "ohlc": {
+                "open": 3130,
+                "high": 3560,
+                "low": 2580
+            },
+            "strength_score": 0.05,
+            "is_large_cap": false
+        },
+        {
+            "code": "015260",
+            "name": "에이엔피",
+            "market": "KOSPI",
+            "close": 672,
+            "changes_ratio": -10.64,
+            "volume": 2530587,
+            "amount": 1713719733,
+            "marcap": 31662552768,
+            "ohlc": {
+                "open": 710,
+                "high": 710,
+                "low": 644
+            },
+            "strength_score": 0.42,
+            "is_large_cap": false
+        },
+        {
+            "code": "272550",
+            "name": "삼양패키징",
+            "market": "KOSPI",
+            "close": 13600,
+            "changes_ratio": -10.99,
+            "volume": 2291528,
+            "amount": 35238284260,
+            "marcap": 204930321600,
+            "ohlc": {
+                "open": 16010,
+                "high": 17200,
+                "low": 13520
+            },
+            "strength_score": 0.02,
+            "is_large_cap": false
+        },
+        {
+            "code": "357580",
+            "name": "아모센스",
+            "market": "KOSDAQ",
+            "close": 19330,
+            "changes_ratio": -11.13,
+            "volume": 219704,
+            "amount": 4400705975,
+            "marcap": 225279474680,
+            "ohlc": {
+                "open": 20900,
+                "high": 21700,
+                "low": 18930
+            },
+            "strength_score": 0.14,
+            "is_large_cap": false
+        },
+        {
+            "code": "011280",
+            "name": "태림포장",
+            "market": "KOSPI",
+            "close": 2205,
+            "changes_ratio": -11.62,
+            "volume": 6936505,
+            "amount": 16900095225,
+            "marcap": 156127097700,
+            "ohlc": {
+                "open": 2585,
+                "high": 2665,
+                "low": 2170
+            },
+            "strength_score": 0.07,
+            "is_large_cap": false
+        },
+        {
+            "code": "261780",
+            "name": "차백신연구소",
+            "market": "KOSDAQ",
+            "close": 3990,
+            "changes_ratio": -11.92,
+            "volume": 6960493,
+            "amount": 29287149547,
+            "marcap": 107192331540,
+            "ohlc": {
+                "open": 4335,
+                "high": 4685,
+                "low": 3905
+            },
+            "strength_score": 0.11,
+            "is_large_cap": false
+        },
+        {
+            "code": "341170",
+            "name": "퓨쳐메디신",
+            "market": "KONEX",
+            "close": 1849,
+            "changes_ratio": -11.95,
+            "volume": 60117,
+            "amount": 110488107,
+            "marcap": 19475896045,
+            "ohlc": {
+                "open": 2100,
+                "high": 2100,
+                "low": 1785
+            },
+            "strength_score": 0.2,
+            "is_large_cap": false
+        },
+        {
+            "code": "071320",
+            "name": "지역난방공사",
+            "market": "KOSPI",
+            "close": 79400,
+            "changes_ratio": -11.97,
+            "volume": 104304,
+            "amount": 8260084300,
+            "marcap": 919352273600,
+            "ohlc": {
+                "open": 82700,
+                "high": 82800,
+                "low": 78300
+            },
+            "strength_score": 0.24,
+            "is_large_cap": false
+        },
+        {
+            "code": "266470",
+            "name": "바이오인프라생명과학",
+            "market": "KONEX",
+            "close": 93,
+            "changes_ratio": -12.26,
+            "volume": 80186,
+            "amount": 7877062,
+            "marcap": 2591539767,
+            "ohlc": {
+                "open": 121,
+                "high": 121,
+                "low": 91
+            },
+            "strength_score": 0.07,
+            "is_large_cap": false
+        },
+        {
+            "code": "226340",
+            "name": "본느",
+            "market": "KOSDAQ",
+            "close": 482,
+            "changes_ratio": -13.0,
+            "volume": 3379289,
+            "amount": 1643343587,
+            "marcap": 20221066440,
+            "ohlc": {
+                "open": 495,
+                "high": 515,
+                "low": 460
+            },
+            "strength_score": 0.4,
+            "is_large_cap": false
+        },
+        {
+            "code": "288330",
+            "name": "파라택시스코리아",
+            "market": "KOSDAQ",
+            "close": 521,
+            "changes_ratio": -13.6,
+            "volume": 2147243,
+            "amount": 1156650766,
+            "marcap": 55267039691,
+            "ohlc": {
+                "open": 610,
+                "high": 610,
+                "low": 502
+            },
+            "strength_score": 0.18,
+            "is_large_cap": false
+        },
+        {
+            "code": "013000",
+            "name": "세우글로벌",
+            "market": "KOSPI",
+            "close": 1275,
+            "changes_ratio": -13.73,
+            "volume": 5104149,
+            "amount": 7025105466,
+            "marcap": 36598914525,
+            "ohlc": {
+                "open": 1550,
+                "high": 1561,
+                "low": 1261
+            },
+            "strength_score": 0.05,
+            "is_large_cap": false
+        },
+        {
+            "code": "448780",
+            "name": "마이크로엔엑스",
+            "market": "KONEX",
+            "close": 1620,
+            "changes_ratio": -14.69,
+            "volume": 1175,
+            "amount": 1903809,
+            "marcap": 4337841600,
+            "ohlc": {
+                "open": 1850,
+                "high": 1899,
+                "low": 1615
+            },
+            "strength_score": 0.02,
+            "is_large_cap": false
+        },
+        {
+            "code": "093510",
+            "name": "엔지브이아이",
+            "market": "KONEX",
+            "close": 521,
+            "changes_ratio": -14.87,
+            "volume": 611,
+            "amount": 318331,
+            "marcap": 3136420000,
+            "ohlc": {
+                "open": 521,
+                "high": 521,
+                "low": 521
+            },
+            "strength_score": 0,
+            "is_large_cap": false
+        },
+        {
+            "code": "092590",
+            "name": "럭스피아",
+            "market": "KONEX",
+            "close": 781,
+            "changes_ratio": -14.92,
+            "volume": 296,
+            "amount": 231185,
+            "marcap": 5694347538,
+            "ohlc": {
+                "open": 790,
+                "high": 790,
+                "low": 781
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "136660",
+            "name": "큐엠씨",
+            "market": "KONEX",
+            "close": 1696,
+            "changes_ratio": -14.99,
+            "volume": 236,
+            "amount": 402080,
+            "marcap": 4004171200,
+            "ohlc": {
+                "open": 2000,
+                "high": 2000,
+                "low": 1696
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        },
+        {
+            "code": "123010",
+            "name": "알엔티엑스",
+            "market": "KOSDAQ",
+            "close": 1144,
+            "changes_ratio": -25.86,
+            "volume": 1785698,
+            "amount": 2394954058,
+            "marcap": 37361372048,
+            "ohlc": {
+                "open": 1535,
+                "high": 1545,
+                "low": 1144
+            },
+            "strength_score": 0.0,
+            "is_large_cap": false
+        }
+    ]
+}
