@@ -16,7 +16,8 @@ def save_stock_data():
         large_cap = df_sorted.iloc[:100]
         mid_small_cap = df_sorted.iloc[100:]
         
-        target_large = large_cap[large_cap['ChangesRatio'].abs() >= 3.0]
+        #target_large = large_cap[large_cap['ChangesRatio'].abs() >= 3.0]
+        target_large = large_cap.head(5)
         target_mid_small = mid_small_cap[mid_small_cap['ChangesRatio'].abs() >= 5.0]
 
         # 3. JSON 구조 생성
