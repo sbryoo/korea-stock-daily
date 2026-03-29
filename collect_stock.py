@@ -5,7 +5,8 @@ from datetime import datetime
 import os
 
 def save_stock_data():
-    today = datetime.now().strftime("%Y-%m-%d")
+    #today = datetime.now().strftime("%Y-%m-%d")
+    target_date = "2026-03-27"
     try:
         # 1. 데이터 수집
         df_krx = fdr.StockListing('KRX')
