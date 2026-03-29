@@ -3,17 +3,20 @@ name: Daily Stock Collection
 on:
   schedule:
     - cron: '30 7 * * 1-5' # 한국시간 평일 오후 4:30 실행
-  workflow_dispatch:      # 테스트를 위해 수동 실행 버튼 활성화
+  workflow_dispatch:      # 수동 실행 버튼 활성화
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:          # 추가: 저장소 쓰기 권한을 명시적으로 부여
+      contents: write
+      
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # 최신 v4로 업데이트 (Node 관련 경고 해결)
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # 최신 v5로 업데이트 (Node 관련 경고 해결)
         with:
           python-version: '3.10'
 
@@ -28,5 +31,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json
-          git commit -m "Update stock data $(date +'%Y-%m-%d')" || exit 0
-          git push
+          # 변경사항이 없을 때 에러로 중단되지 않도록 처리
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stock data $(date +'%Y-%m-%d')" && git push)
