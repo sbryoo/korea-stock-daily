@@ -2,23 +2,23 @@ name: Daily Stock Collection
 
 on:
   schedule:
-    - cron: '30 7 * * 1-5' # 한국시간 평일 오후 4:30
-  workflow_dispatch:      # 수동 실행 버튼
+    - cron: '30 7 * * 1-5' # 한국시간 평일 오후 4:30 실행 (UTC 07:30)
+  workflow_dispatch:      # 수동 실행 버튼 활성화
 
 env:
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true # Node 버전 경고 억제
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Node.js 24 환경 강제 사용
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # 이 작업에 쓰기 권한을 명시적으로 부여
+      contents: write     # 저장소에 파일을 쓸 수 있는 명시적 권한 부여
       
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # 토큰 주입 (권한 문제 해결)
+          token: ${{ secrets.GITHUB_TOKEN }} # 토큰을 통한 권한 인증
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -36,13 +36,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 데이터 폴더가 있는지 확인하고 추가
-          git add data/*.json || echo "No data files found"
+          # data 폴더가 생성되었는지 확인 후 스테이징
+          git add data/*.json || echo "No data files found to add"
           
-          # 변경사항이 있을 때만 푸시
+          # 변경사항이 있을 때만 커밋 및 푸시 진행
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update stock data $(date +'%Y-%m-%d')"
-            git push
+            git commit -m "Auto-update: Stock data $(date +'%Y-%m-%d')"
+            git push origin main
           else
-            echo "No changes to commit"
+            echo "No changes detected. Skipping push."
           fi
